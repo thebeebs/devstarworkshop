@@ -20,7 +20,7 @@ You will learn how to build, manage and deploy cloud native microservices.
 
 Laptop. Any IDE or code editor with Git support.
 
-Familiarity with any of the following coding languages: Java, PHP or Node.js (Javascript)DDBB95DEC715.htm). 
+Familiarity with any of the following coding languages: Java, PHP or Node.js. 
 
 ### Get started ###
 
