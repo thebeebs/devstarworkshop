@@ -2,7 +2,7 @@
 
 ### Mission Description ###
 
-In order to take up the battle against the Death Star, your squad would need to deploy at least one fighter (microservice) to the cloud. 
+Your squad has now deployed one or several induvidual microservices (fighters). Our next mission will be add another fighter to the squad by scaling up the number of CPUs one of them. 
 
 ### Mission Awards ###
 
@@ -12,8 +12,8 @@ In order to take up the battle against the Death Star, your squad would need to 
 
 ### Mission Instructions ###
 
-1. Deploy your microservice by using either of the two deployment options - [Continous Integration and Deployment](../deployment/cicd.md) or deploy [manually](../deployment/manually.md)
-2. Monitor the Death Star dashboard to await your fighter being deployed! Your fighter should appear in the dashboard and complete it's first strike to the Deat Star!
+1. Sign in to Application Container Cloud. TODO: Instructions
+2. Increate the number of CPUs two 2. Please don't add more than 1 CPU as it will not impact the score. TODO: Instructions
 
 ### Next: First Mission ###
 
