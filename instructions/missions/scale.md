@@ -2,7 +2,7 @@
 
 ### Mission Description ###
 
-Your squad has now deployed one or several induvidual microservices (fighters). Our next mission will be add another fighter to the squad by scaling up the number of CPUs one of them. 
+Your squad has now deployed one or several induvidual microservices (fighters). Our next mission will be add another fighter to the squad by scaling up the number of CPUs for one of them. 
 
 ### Mission Awards ###
 
@@ -17,4 +17,4 @@ Your squad has now deployed one or several induvidual microservices (fighters). 
 
 ### Next: First Mission ###
 
-If you have already decided what deployment strategy you will use, you are ready to deploy your first fighter to the squad! [click here](missions/deploy.md) to start your first mission!
+Your squad is now confident to start fighting the Death Star. Be ready, not the real fun starts! [Click here](shield.md) to continue on to the next mission!
