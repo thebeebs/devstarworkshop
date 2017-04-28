@@ -6,7 +6,7 @@
 
 
 
-| [![Red Squad](cicd.png)](deploy/cicd.md)  | [![Blue Squad](manually.png)](deploy/manually.md)
+| [![Red Squad](cicd.png)](deployment/cicd.md)  | [![Blue Squad](manually.png)](deployment/manually.md)
 |:---:|:---:
 
 ### Next: Deployment Selection ###
