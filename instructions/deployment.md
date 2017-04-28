@@ -1,20 +1,13 @@
-## Welcome to the Red Squad. Pick your weapon! ##
+## Know your deployment options! ##
 
-+ Weapon selection strategy is completely up to your preference. Every squad members can have the same weapon, different weapons or chose to have no weapon at all.
-+ Each git repository includes the basic code that is needed in order to run and deploy your microservice to the battle action!
-+ Clone your selected weapon code to your local machine as per below. If you are using NetBeans or Eclipse with OEPE, you can use the integrated Oracle Cloud plugin to let your IDE manage the Git actions for you. Click here if you want to know more. TODO: Insert this
++ Deployment strategy is completely up to your preference. Every squad members can have the same or different type of deployment strategy.
++ In short, the Continous Integration and Deployment strategy means that whenever you want to update your application you simply perform a ```git push USERNAME@REPOSITORY``` command with the same Git repository as for your ```git clone``` command. The manual approach means that you zip your application locally and then deploy that zip file in the Application Container Cloud user interface.
++ Click on the different deployment strategies below to get instructions on how to use them!
 
 
 
-| ![Red Squad](nodejs.png)  | ![Blue Squad](javase.png) | ![Black Squad](php.png) |
-|:---:|:---:|:---:|
-| Express.js framework. Built locally using ```./bin/www ``` | Tomcat embedded. Built using ```mvn clean compile ``` | Add here
-
-| Weapon        | Password     | Code  |
-| ------------- |-------------| -----|
-| Node.js      | Handed out | ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/xwingnodeclient.git ``` |
-| Java SE      | Handed out      |   ```  git clone https://lisa.jones@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/xwingjavaclient.git ``` |
-| PHP | Handed out      |  ```  git clone https://lisa.jones@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/PHP-skeleton.git ``` |
+| ![Red Squad](cicd.png)  | ![Blue Squad](manually.png) 
+|:---:|:---:
 
 ### Next: Deployment Selection ###
 
