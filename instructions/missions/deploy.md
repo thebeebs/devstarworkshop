@@ -24,6 +24,6 @@ In order to take up the battle against the Death Star, your squad would need to 
 1. Deploy your microservice by using either of the two deployment options - [Continous Integration and Deployment](../deployment/cicd.md) or deploy [manually](../deployment/manually.md)
 2. Monitor the Death Star dashboard to await your fighter being deployed! Your fighter should appear in the dashboard and complete it's first strike to the Deat Star!
 
-### Next: First Mission ###
+### Next: Second Mission ###
 
-If you have already decided what deployment strategy you will use, you are ready to deploy your first fighter to the squad! [click here](missions/deploy.md) to start your first mission!
+If your microservice is already up and running [click here](missions/scale.md) to continue on with the next mission!
