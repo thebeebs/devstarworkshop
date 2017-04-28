@@ -17,4 +17,4 @@ Enter explaination here
 
 ### Select your Squad! ###
 
-+ [Click here to select your squad!](instructions/squadSelection.md)
++ [Click here to select your squad!](squadSelection.md)
