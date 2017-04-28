@@ -1,5 +1,7 @@
 ## Introduction ##
 
+TOO MUCH INFORMATION LH....
+
 The Death Star needs to be defeated. You and your Jedi Starfighters are the last hope of the Rebels! 
 
 The adventure is intense and a set of missions (See missions map here) must be accomplished in order to achieve the desired victory!
