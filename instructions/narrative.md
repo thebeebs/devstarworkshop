@@ -7,7 +7,7 @@ Explain missions.
 
 Enter explaination here
 
-#### Squads####
+#### Squads ####
 
 You work together in squads with the common goal to defeat the Death Star. A squad can consist of any number of members and skill level. 
 
