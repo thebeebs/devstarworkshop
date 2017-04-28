@@ -18,4 +18,4 @@
 
 ### Next: Deployment Selection ###
 
-After you have cloned the code to your local machine, [click here](deployment.md) to go to deployment selection!
+After you have cloned the code to your local machine, [click here](./deployment.md) to go to deployment selection!
