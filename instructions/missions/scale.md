@@ -24,4 +24,4 @@ Your squad has now deployed one or several induvidual microservices (fighters). 
 
 ### Next: Third Mission ###
 
-Your squad is now confident to start fighting the Death Star. Be ready, not the real fun starts! [Click here](shield.md) to continue on to the next mission!
+Your squad is now confident to start fighting the Death Star. Be ready, not the real fun starts! [Click here](database.md) to continue on to the next mission!
