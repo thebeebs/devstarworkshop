@@ -6,7 +6,7 @@
 
 
 
-| [![Red Squad](cicd.png)](deployment/cicd.md)  | [![Blue Squad](manually.png)](deployment/manually.md)
+| [![Red Squad](cicd.png)](deployment/deployment.md)  | [![Blue Squad](manually.png)](deployment/manually.md)
 |:---:|:---:
 
 ### Next: First Mission ###
