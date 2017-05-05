@@ -15,10 +15,12 @@ Your squad has now deployed one or several induvidual microservices (fighters). 
 1. Sign in to Application Container Cloud as we've explained in the previous points.
 
 2. Click in your deployed application:
-image01
+
+![alt text](scale01.PNG)
 
 3. Increment the number of instances for two 2. Please don't add more than 1 CPU as it will not impact the score. 
-image02
+
+![alt text](scale02.PNG)
 
 ### Next: First Mission ###
 
