@@ -1,12 +1,5 @@
 ## Deploy Manually ##
 
-
-
-## Deployment ##
-
-
-
-
 ## Manual or Using Application Container Cloud Service console to deploy ##
 If you decided yo use the manual approach you should be able to produce at the end of your compilation process a manifest.json and a zip file containing the code:
 
@@ -29,9 +22,4 @@ IF MANUALLY ALWAYS USE THE SAME NAME!
 
 ![alt text](createappaccs03.PNG)
 
-
-
-
-
-## Using Developer Cloud Service Deployment Configuration to deploy ##
 
