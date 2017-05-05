@@ -21,6 +21,6 @@ Example: GET ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/shield/
 3. Deploy a new version of your microservice either by using [Continous Integration and Deployment](deployment/cicd.md) or the [manual](deployment/manually.md) approach. 
 4. When your updated microservice is live, you could use it to hit the Death Star's shield!
 
-### Next: First Mission ###
+### Next: Fourth Mission ###
 
-Your squad is now confident to start fighting the Death Star. Be ready, not the real fun starts! [Click here](shield.md) to continue on to the next mission!
+Your squad is now confident to start fighting the Death Star. Be ready, now the real fun starts! [Click here](shield.md) to continue on to the next mission!
