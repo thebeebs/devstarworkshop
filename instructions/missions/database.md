@@ -26,4 +26,4 @@ Example: GET ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/shield/
 
 ### Next: Fifth Mission ###
 
-The Death Star seems to be weaker and weaker.... [Click here](shield.md) to continue on to the next mission!
+The Death Star seems to be weaker and weaker.... [Click here](iterate.md) to continue on to the next mission!
