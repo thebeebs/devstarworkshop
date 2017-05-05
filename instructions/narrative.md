@@ -8,6 +8,8 @@ The adventure is intense and a set of missions must be accomplished in order to 
 
 ## How to play ##
 
+#### Objective ####
+
 The game consists in developing services – whether in Java, Node.js or PHP – and hit a REST end point provided by the Death Star server.
 
 #### Squads ####
