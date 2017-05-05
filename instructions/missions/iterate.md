@@ -1,0 +1,29 @@
+## Mission 5. Iterate the base URL! ##
+
+### Mission Description ###
+
+Write here....
+
+
+### Mission Awards ###
+
+1. The first squad to hit the database will be awarded **500** points
+2. The second squad to hit the database will be awarded **400** points
+3. Subsequent squads will be awarded **300** points
+
+### Mission Instructions ###
+
+Explain the need to use a loop (for, while, etc)....
+
+2. We now need to fire at the coordinates of the database! Use your selected weapon to implement a function that fires against the shield. This time to get the base URL you first need to access the database and retrieve it from it with a SQL SELECT command! As you get the base URL you can then fire it up as you did in the previous Shield mission: 
+
+```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/shield/{Coordinates_goes_here}/{Your_squad_name_goes_here}/{Your_microservice_name_goes_here}```. The shield will get hit by either GET or POST bullets!
+Example: GET ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/shield/943x2323/Red Squad/javaxwingclient```
+
+3. Deploy a new version of your microservice either by using [Continous Integration and Deployment](deployment/cicd.md) or the [manual](deployment/manually.md) approach. 
+
+4. When your updated microservice is live, you could use it to hit the Death Star's shield!
+
+### Next: End ###
+
+To be continued...
