@@ -22,6 +22,6 @@ Your squad has now deployed one or several induvidual microservices (fighters). 
 
 ![alt text](scale02.PNG)
 
-### Next: First Mission ###
+### Next: Third Mission ###
 
 Your squad is now confident to start fighting the Death Star. Be ready, not the real fun starts! [Click here](shield.md) to continue on to the next mission!
