@@ -18,7 +18,7 @@ You work together in squads with the common goal to defeat the Death Star. A squ
 
 ## Scoring ##
 
-Enter explaination here
+The points are obtained as your team complete the missions. The sooner your team complete a mission the more points will get.
 
 ### Select your Squad! ###
 
