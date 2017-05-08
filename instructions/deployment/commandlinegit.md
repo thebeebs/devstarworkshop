@@ -12,6 +12,8 @@
 
 ![git init](gitManual04.png)
 
+After changing a file....
+
 
 ![git init](gitManual05.png)
 
