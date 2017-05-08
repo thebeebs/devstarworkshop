@@ -11,4 +11,4 @@ I WILL EXPLAIN HERE HOW TO LOCALLY CLONE CODE WITH ECLIPSE IDE OR WITH A SIMPLE 
 
 (...)
 
-![alt text](gitManual01.png)
+![alt text](commandlinegit.md)
