@@ -16,4 +16,4 @@
 ![git init](eclipsegit05.png)
 
 
-![git init](gitManual06.png)
+![git init](eclipsegit06.png)
