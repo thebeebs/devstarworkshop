@@ -10,3 +10,5 @@ After locally cloning your git repository, any change on it should trigger a bui
 I WILL EXPLAIN HERE HOW TO LOCALLY CLONE CODE WITH ECLIPSE IDE OR WITH A SIMPLE GIT CLIENT.
 
 (...)
+
+![alt text](gitManual01.png)
