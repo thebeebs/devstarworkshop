@@ -15,8 +15,8 @@ In this mission you have to develop a function "smart" enough to discover the re
 
 1. After getting a set of possible base URL's to hit, your team will need to develope a loop function (for or while to iterate along the possible values). Your function should iterate and concatenate until finding the base URL. Example:
 
-```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/fighters/{x-coordinate}/{y/coordinate)/{Your_squad_name_goes_here}/{Your_microservice_name_goes_here}```. The shield will get hit by either GET or POST bullets!
-Example: GET ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/fighters/x22/y22/Red Squad/javaxwingclient/```
+```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/fighters/{x-coordinate_goes_here}/{y-coordinate_goes_here}/{Your_squad_name_goes_here}/{Your_microservice_name_goes_here}```. The shield will get hit by either GET or POST bullets!
+Example: GET ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/fighters/22/22/Red Squad/javaxwingclient/```
 
 2. Deploy a new version of your microservice either by using [Continous Integration and Deployment](deployment/cicd.md) or the [manual](deployment/manually.md) approach. 
 
