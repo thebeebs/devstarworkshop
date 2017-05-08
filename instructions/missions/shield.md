@@ -18,7 +18,7 @@ To start firing at the shield, we first need to have the Death Star exposing it'
 1. When half of the squads in our army have been deployed, the Death Star will expose the coordinates of it's shield in the Dashboard. When that has happened, we can continue to step 2.
 2. We now need to fire at the coordinates of the shield! Use your selected weapon to implement a function that fires against the shield. The base URL of the shield is ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/shield/{Coordinates_goes_here}/{Your_squad_name_goes_here}/{Your_microservice_name_goes_here}```. The shield will get hit by either GET or POST bullets!
 Example: GET ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/shield/943x2323/Red Squad/javaxwingclient```
-3. Deploy a new version of your microservice either by using [Continous Integration and Deployment](deployment/cicd.md) or the [manual](deployment/manually.md) approach. 
+3. Deploy a new version of your microservice either by using [Continous Integration and Deployment](deployment/deployment.md) or the [manual](deployment/manually.md) approach. 
 4. When your updated microservice is live, you could use it to hit the Death Star's shield!
 
 ### Next: Fourth Mission ###
