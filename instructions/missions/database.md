@@ -1,29 +1,28 @@
-## Mission 4. Destroy the core database! ##
+## Mission 4. Destroy the Reactor Core! ##
 
 ### Mission Description ###
 
-After destroying the shield your team finds out the coordinates and access credentials of the Death Star central database!
-
-After preparing your xwing with the db credentials, you obtain the endpoint which your squad will now attack!
-
+The spy should now have exposed the secrets of the database where the Death Star stores the coordinates to it's Reactor Core! When our spy returns with the information, find out the coordinates and attack it with your fighter!
 
 ### Mission Awards ###
 
-1. The first squad to hit the database will be awarded **500** points
-2. The second squad to hit the database will be awarded **400** points
-3. Subsequent squads will be awarded **300** points
+1. The first squad to destroy the core reactor will be awarded **500** points
+2. The second squad to destroy the core reactor will be awarded **375** points
+3. The third squad to destroy the core reactor will be awarded **250** points
+4. The fourth squad to destroy the core reactor will be awarded **125** points
 
 ### Mission Instructions ###
 
-2. We now need to fire at the coordinates of the database! Use your selected weapon to implement a function that fires against the shield. This time to get the base URL you first need to access the database and retrieve it from it with a SQL SELECT command! As you get the base URL you can then fire it up as you did in the previous Shield mission: 
+1. You should now have recieved information from the spy about the credentials to the Death Star MySQL database where the coordinates for the Core Reactor is kept. Develop a MySQL connection that queries the MissionDatabase table to retrieve information about the Reactor Core coordinates!
 
-```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/reactorCore/{x-coordinate_goes_here}/{y-coordinate_goes_here}/{Your_squad_name_goes_here}/{Your_microservice_name_goes_here}```. The shield will get hit by either GET or POST bullets!
-Example: GET ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/reactorCore/77/78/Red Squad/javaxwingclient```
+2. When you have the coordinates, hit it at the following URL:
+```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/reactorCore/{x-coordinate_goes_here}/{y-coordinate_goes_here}/{Your_squad_name_goes_here}/{Your_microservice_name_goes_here}```. **The Reactor Core will get hit by GET bullets!**
+Example: GET ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/reactorCore/45/45/RedSquad/RedXWingJavaclient/```
 
-3. Deploy a new version of your microservice either by using [Continous Integration and Deployment](deployment/cicd.md)![alt text](deployment.png) or the [manual](deployment/manually.md) approach. 
+3. Deploy a new version of your microservice either by using [Continous Integration and Deployment](deployment/cicd.md) or the [manual](deployment/manually.md) approach. 
 
-4. When your updated microservice is live, you could use it to hit the Death Star's shield!
+4. When your updated microservice is live, you could use it to hit the Death Star's iterate endpoint!
 
-### Next: Fifth Mission ###
+### Next: End ###
 
-The Death Star seems to be weaker and weaker.... [Click here](iterate.md) to continue on to the next mission!
+If you haven't already completed the TIE Fighters mission you can do that [here](iterate.md). If you have, your missions are completed! Congratulations!
