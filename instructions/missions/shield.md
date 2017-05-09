@@ -9,10 +9,10 @@ To start firing at the shield, we first need to have the Death Star exposing it'
 
 ### Mission Awards ###
 
-1. The first squad to scale a microservice will be awarded **300** points
-2. The second squad to scale a microservice will be awarded **225** points
-3. The third squad to scale a microservice will be awarded **150** points
-4. The fourth squad to scale a microservice will be awarded **75** points
+1. The first squad to hit the shield will be awarded **300** points
+2. The second squad to hit the shield will be awarded **225** points
+3. The third squad to hit the shield will be awarded **150** points
+4. The fourth squad to hit the shield will be awarded **75** points
 
 ### Mission Instructions ###
 
