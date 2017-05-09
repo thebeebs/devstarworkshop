@@ -9,9 +9,9 @@
 
 | Weapon        | Password     | Code  |
 | ------------- |-------------| -----|
-| Node.js      | Handed out | ``` https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/YellowXwingNodeClient.git ``` |
-| Java SE      | Handed out      |   ```  https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/YellowXwingJavaClient.git ``` |
-| PHP | Handed out      |  ```  https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/YellowXwingPHPclient.git ``` |
+| Node.js      | Handed out | ``` https://john.dunbar@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/YellowXwingNodeClient.git ``` |
+| Java SE      | Handed out      |   ```  https://john.dunbar@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/YellowXwingJavaClient.git ``` |
+| PHP | Handed out      |  ```  https://john.dunbar@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/YellowXwingPHPclient.git ``` |
 
 ### Next: Deployment Selection ###
 
