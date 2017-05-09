@@ -1,4 +1,4 @@
-## Welcome to the Yellow Squad. Pick your weapon! ##
+## Welcome to the Blue Squad. Pick your weapon! ##
 
 + Weapon selection strategy is completely up to your preference. Every squad members can have the same weapon, different weapons or chose to have no weapon at all.
 + Each git repository includes the basic code that is needed in order to run and deploy your microservice to the battle action!
@@ -9,9 +9,9 @@
 
 | Weapon        | Password     | Code  |
 | ------------- |-------------| -----|
-| Node.js      | Handed out | ``` https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/YellowXwingNodeClient.git ``` |
-| Java SE      | Handed out      |   ```  https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/YellowXwingJavaClient.git ``` |
-| PHP | Handed out      |  ```  https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/YellowXwingPHPclient.git ``` |
+| Node.js      | Handed out | ``` https://cloud.admin@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/BlueXwingNodeClient.git ``` |
+| Java SE      | Handed out      |   ```  https://cloud.admin@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/BlueXwingJavaClient.git ``` |
+| PHP | Handed out      |  ```  https://cloud.admin@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/BlueXwingPHPClient.git ``` |
 
 ### Next: Deployment Selection ###
 
