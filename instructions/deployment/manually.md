@@ -1,5 +1,11 @@
 ## Deploy Manually ##
 
+## Clone code locally ##
+
+![GIT COMMAND LINE QUICK TUTORIAL](commandlinegit.md)
+
+![ECLIPSE GIT QUICK TUTORIAL](eclipsegit.md)
+
 ## Using Application Container Cloud Service console to deploy ##
 If you decided yo use the manual approach you should be able to produce at the end of your compilation process a manifest.json and a zip file containing the application:
 
