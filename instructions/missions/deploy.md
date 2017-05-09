@@ -28,3 +28,7 @@ In order to take up the battle against the Death Star, your squad would need to 
 ### Next: Second Mission ###
 
 If your microservice is already up and running [click here](scale.md) to continue on with the next mission!
+
+### Optional: Logging ###
+
+If your microservice is deployed, you can view the logs. [Click here](logs.md) for an expanation on how to view the logs.
