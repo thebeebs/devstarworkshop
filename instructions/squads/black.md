@@ -1,4 +1,4 @@
-## Welcome to the Red Squad. Pick your weapon! ##
+## Welcome to the Black Squad. Pick your weapon! ##
 
 + Weapon selection strategy is completely up to your preference. Every squad members can have the same weapon, different weapons or chose to have no weapon at all.
 + Each git repository includes the basic code that is needed in order to run and deploy your microservice to the battle action!
@@ -9,10 +9,8 @@
 
 | Weapon        | Password     | Code  |
 | ------------- |-------------| -----|
-| Node.js      | Handed out | ``` git clone https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/BlackXwingNodeclient.git
- ``` |
-| Java SE      | Handed out      |   ```  git clone https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/BlackXwingJavaclient.git
- ``` |
+| Node.js      | Handed out | ``` git clone https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/BlackXwingNodeclient.git ``` |
+| Java SE      | Handed out      |   ```  git clone https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/BlackXwingJavaclient.git ``` |
 | PHP | Handed out      |  ```  git clone https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/BlackXwingPHPclient.git ``` |
 
 ### Next: Deployment Selection ###
