@@ -2,23 +2,24 @@
 
 ### Mission Description ###
 
-Your squad has now deployed one or several induvidual microservices (fighters). Our next mission will be add another fighter to the squad by scaling up the number of CPUs for one of them. 
+Your squad has now deployed one or several induvidual microservices (fighters). Our next mission will be add to another fighter to the squad by scaling up the number of CPUs for one of them. 
 
 ### Mission Awards ###
 
 1. The first squad to scale a microservice will be awarded **100** points
 2. The second squad to scale a microservice will be awarded **75** points
-3. Subsequent squads will be awarded **50** points
+3. The third squad to scale a microservice will be awarded **50** points
+4. The fourth squad to scale a microservice will be awarded **25** points
 
 ### Mission Instructions ###
 
-1. Sign in to Application Container Cloud as we've explained in the previous points.
+1. Sign in to Application Container Cloud using the URL and credentials from the Excel sheet.
 
-2. Click in your deployed application:
+2. Click your deployed application:
 
 ![alt text](scale01.PNG)
 
-3. Increment the number of instances for two 2. Please don't add more than 1 CPU as it will not impact the score. 
+3. Increment the number of instances to 2. Please note that adding more than 2 CPUs do not give you any more points or advantages. 
 
 ![alt text](scale02.PNG)
 
