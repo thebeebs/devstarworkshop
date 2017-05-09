@@ -24,4 +24,4 @@ Example: GET ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/shield/
 
 ### Next: Fourth Mission ###
 
-Your squad is now confident to start fighting the Death Star. Be ready, now the real fun starts! [Click here](missionSelection.md) to continue!
+The Death Star is getting weaker! Let's start attacking it more. [Click here](missionSelection.md) to continue!
