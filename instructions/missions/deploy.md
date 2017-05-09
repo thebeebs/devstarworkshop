@@ -31,4 +31,4 @@ If your microservice is already up and running [click here](scale.md) to continu
 
 ### Optional: Logging ###
 
-If your microservice is deployed, you can view the logs. [Click here](logs.md) for an expanation on how to view the logs.
+If your microservice is deployed, you can view the logs. [Click here](../logs.md) for an expanation on how to view the logs.
