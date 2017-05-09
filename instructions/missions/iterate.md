@@ -6,10 +6,10 @@ The Death Star has sent out 100 TIE Fighters to attack your fighters! You need t
 
 ### Mission Awards ###
 
-1. The first squad to scale a microservice will be awarded **500** points
-2. The second squad to scale a microservice will be awarded **375** points
-3. The third squad to scale a microservice will be awarded **250** points
-4. The fourth squad to scale a microservice will be awarded **125** points
+1. The first squad to shoot down all fighters will be awarded **500** points
+2. The second squad to shoot down all fighters will be awarded **375** points
+3. The third squad to shoot down all fighters will be awarded **250** points
+4. The fourth squad to shoot down all fighters will be awarded **125** points
 
 ### Mission Instructions ###
 
