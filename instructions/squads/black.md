@@ -9,9 +9,11 @@
 
 | Weapon        | Password     | Code  |
 | ------------- |-------------| -----|
-| Node.js      | Handed out | ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/RedXwingNodeClient.git ``` |
-| Java SE      | Handed out      |   ```  git clone https://lisa.jones@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/RedXwingJavaclient.git ``` |
-| PHP | Handed out      |  ```  git clone https://lisa.jones@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/RedXwingPHPclient.git ``` |
+| Node.js      | Handed out | ``` git clone https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/BlackXwingNodeclient.git
+ ``` |
+| Java SE      | Handed out      |   ```  git clone https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/BlackXwingJavaclient.git
+ ``` |
+| PHP | Handed out      |  ```  git clone https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/BlackXwingPHPclient.git ``` |
 
 ### Next: Deployment Selection ###
 
