@@ -9,12 +9,13 @@ So remember, depending on language you choose different sets of requirements you
 
   PHP: Apache web server and PHP installed
 
-At the end of the compilation process -regardless of language choosen - you should have a zip file and respective manifest.json file to proceed to deployment.
+At the end of the compilation process -regardless of language choosen - you should have a zip file containing the application and the  respective manifest.json file to proceed to deployment.
 
-Let's now have a look on how Oracle Application Container Cloud Service works:
+Too complex ??? Too boring ??? Change your deployment strategy and go for the automatic one! Click here !
+
+If you are still convinced that the manual approach is the right one for you, go for it!!
 
 ## Using Application Container Cloud Service console to deploy ##
-If you decided yo use the manual approach you should be able to produce at the end of your compilation process a manifest.json and a zip file containing the application:
 
 Here are the steps you'll need to follow:
 
