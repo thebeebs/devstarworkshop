@@ -10,7 +10,7 @@ If you don't want an IDE such as Eclipse to perform Git actions for you but inst
 
 ### I want to use Eclipse's built in Git ###
 
-If you prefer using Eclipse to perform Git actions, please find the instructions [here!](instructions/commandlinegit.md)
+If you prefer using Eclipse to perform Git actions, please find the instructions [here!](instructions/deployment/eclipsegit.md)
 
 ### I want to use another IDE with built in Git ###
 
