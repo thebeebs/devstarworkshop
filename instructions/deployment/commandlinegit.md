@@ -4,25 +4,17 @@ If you are going to use git command line to import the code, and if you decide t
 
 So, let's start by locally clone the code you need. At this point you should already have copied the URL for the git remote repository you'll be cloning....
 
-Create a local folder in your machine. From inside that folder run git clone :
-e.g:
-git clone https://lisa.jones@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/RedXwingNodeClient.git
+1. Create a local folder in your machine. 
 
-![git init](git01.PNG)
+2. From inside that folder run ## git clone ## : e.g: git clone https://URLofRepository/nameOfRepository.git
 
+3. You should need to enter the credentials to the repository. These credentials should have been given to you in a previous step.
 
-You should need to enter the credentials to the repository which you've obtained in the previous step.
+4. After having the code cloned, and before pushing any change in order to trigger the build and respective deployment, please create a dummy file inside this folder. This should be enough to trigger the change.
 
+5. After creating the dummy file run ## git add . ## , please notice the point(.) at the end of the expression. 
 
-![git init](gitManual03.png)
+6. Now run ## git commit ## and write a message for the commit
 
+7. Finally, run ## git pus ## and if successfull, your code should be pushed and commited to the remote repository.
 
-![git init](gitManual04.png)
-
-After changing a file....
-
-
-![git init](gitManual05.png)
-
-
-![git init](gitManual06.png)
