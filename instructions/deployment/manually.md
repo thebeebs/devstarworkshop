@@ -1,10 +1,10 @@
 ## Deploy Manually ##
 
-## Clone code locally ##
+Recommendations depending on language:
 
-![GIT COMMAND LINE QUICK TUTORIAL](commandlinegit.md)
-
-![ECLIPSE GIT QUICK TUTORIAL](eclipsegit.md)
+Java: Maven and JDK installed
+Node.js: NPM installed
+PHP: Apache web server and PHP installed
 
 ## Using Application Container Cloud Service console to deploy ##
 If you decided yo use the manual approach you should be able to produce at the end of your compilation process a manifest.json and a zip file containing the application:
