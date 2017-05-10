@@ -1,4 +1,4 @@
-## CLONING CODE LOCALLY WITH ECLIPSE AND GIT ##
+## CLONE CODE LOCALLY WITH ECLIPSE AND GIT ##
 
 Open your Eclipse.
 Go to Window-->Show View-->Other....
