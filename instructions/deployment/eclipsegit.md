@@ -1,3 +1,11 @@
+## USING GIT WITH ECLIPSE ##
+
+Open your Eclipse.
+Go to Window-->Show View-->Other-->Git... and choose the views # Git Repositories # and ## Git Staging ## . 
+
+
+
+
 ## USING GIT WITH ECLIPSE AND ORACLE CLOUD OEPE PLUGIN ##
 
 
