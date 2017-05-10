@@ -3,6 +3,7 @@
 Each squad has a Developer Cloud environment set up. This environment is optional but recommended to use. For each of the GIT repositories an automatic build and deployment is being provided.
 
 | Squad | Environment | Password |
+| ------------- |-------------| -----|
 | Red Squad | ``` https://developer.em2.oraclecloud.com/developer67288-gse00003443/#projects/death-star ``` | Handed out |
 | Blue Squad | ``` https://developer.em2.oraclecloud.com/developer67288-gse00003443/#projects/death-star ``` | Handed out |
 | Yellow Squad | ``` https://developer.em2.oraclecloud.com/developer67288-gse00003443/#projects/death-star ``` | Handed out |
