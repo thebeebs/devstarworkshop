@@ -30,6 +30,8 @@ Click Finish and you should now have your project created in Eclipse project exp
 
 ## USING GIT WITH ECLIPSE AND ORACLE CLOUD OEPE PLUGIN ##
 
+This alternative is optional and if you followed the alternative in the previous point, you can ignore this and move on!
+
 ![git init](eclipsegit01.png)
 
 
