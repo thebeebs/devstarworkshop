@@ -24,11 +24,17 @@ Depending on what type of git clone approach you've followed, you should now hav
 
 1. git command line
 
-    1.1. run: **git add** .     ,please notice the point(.) at the end of the expression;
+    1.1. run: 
+    
+       git add .     ,please notice the point(.) at the end of the expression;
 
-    1.2. run: **git commit**     and write a message for the commit;
+    1.2. run: 
+    
+       git commit     and write a message for the commit;
 
-    1.3. run  **git push**       and if successfull, your code should be pushed and commited to the remote repository.
+    1.3. run  
+    
+       git push       and if successfull, your code should be pushed and commited to the remote repository.
     
 
 2. git Eclipse 
@@ -43,4 +49,5 @@ Depending on what type of git clone approach you've followed, you should now hav
   4. Write a nice commit message and click Commit and Push.
 
 After pushing the code to the remote repository in Developer Cloud Service, why don't have a look on the result:
+[click here](scale.md) to go to the Developer Cloud Service.
 
