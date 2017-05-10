@@ -3,13 +3,13 @@
 If you are here is because you are a brave Xwing fighter and you dont need help of your R2D2 with the compilation and deployment.
 So remember, depending on language you choose different sets of requirements you follow must! ;)
 
-  Java: Maven and JDK installed
+  # Java: Maven and JDK installed
 
-  Node.js: NPM installed
+  # Node.js: NPM installed
 
-  PHP: Apache web server and PHP installed
+  # PHP: Apache web server and PHP installed
 
-At the end of the compilation process -regardless of language choosen - you should have a zip file containing the application and the  respective manifest.json file to proceed to deployment.
+At the end of the compilation process -regardless of language choosen - you should have a **zip file** containing the application and the  respective **manifest.json** file to proceed to deployment.
 
 Too complex ??? Too boring ??? Change your deployment strategy and go for the automatic one! Click here !
 
