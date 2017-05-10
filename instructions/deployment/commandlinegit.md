@@ -12,3 +12,7 @@ So, let's start by locally clone the code you need. At this point you should alr
 
 You have now your code locally cloned!
 
+### Next: First Mission ###
+
+The code is cloned! You are ready to face your first mission! [click here](missions/deploy.md) to start!
+
