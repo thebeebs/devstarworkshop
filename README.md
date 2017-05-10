@@ -8,8 +8,6 @@ In this workshop you will work together in order to complete the mission – def
 
 Choose your platform weapon of choice (Node.js, Java or PHP) and develop and deploy cloud native microservices that will help defeat the Death Star microservice.
 
-Of course there will be a high score board with the squads that build the most powerful microservices and inflicts the most damage to the Death Star!
-
 You will learn how to build, manage and deploy cloud native microservices.
 
 + You will learn how to manage the source control, continuous integration and continuous deployment of your microservices in a DevOps manner.
@@ -20,7 +18,12 @@ You will learn how to build, manage and deploy cloud native microservices.
 
 Laptop. Any IDE or code editor with Git support.
 
-Familiarity with any of the following coding languages: Java, PHP or Node.js. 
+Familiarity with any of the following coding languages: Java, PHP or Node.js.
+
+Recommendations depending on language:
++ Java: Maven and JDK installed
++ Node.js: NPM installed
++ PHP: Apache web server and PHP installed
 
 ### [Click here to get started!](instructions/narrative.md) ###
 
