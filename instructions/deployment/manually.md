@@ -1,13 +1,17 @@
 ## Deploy Manually ##
 
-Recommendations depending on language:
+If you are here is because you are a brave Xwing fighter and you dont need help of your R2D2 with the compilation and deployment.
+So remember, depending on language you choose different sets of requirements you follow must! ;)
 
-Java: Maven and JDK installed
+  Java: Maven and JDK installed
 
-Node.js: NPM installed
+  Node.js: NPM installed
 
-PHP: Apache web server and PHP installed
+  PHP: Apache web server and PHP installed
 
+At the end of the compilation process -regardless of language choosen - you should have a zip file and respective manifest.json file to proceed to deployment.
+
+Let's now have a look on how Oracle Application Container Cloud Service works:
 
 ## Using Application Container Cloud Service console to deploy ##
 If you decided yo use the manual approach you should be able to produce at the end of your compilation process a manifest.json and a zip file containing the application:
