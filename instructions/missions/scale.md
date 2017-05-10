@@ -2,7 +2,7 @@
 
 ### Mission Description ###
 
-Your squad has now deployed one or several induvidual microservices (fighters). Our next mission will be add to another fighter to the squad by scaling up the number of CPUs for one of them. 
+Your squad has now deployed one or several induvidual microservices (fighters). Our next mission will be add to another fighter to the squad by scaling up the number of instances for one of them. 
 
 ### Mission Awards ###
 
@@ -19,7 +19,7 @@ Your squad has now deployed one or several induvidual microservices (fighters). 
 
 ![alt text](scale01.PNG)
 
-3. Increment the number of instances to 2. Please note that adding more than 2 CPUs do not give you any more points or advantages. 
+3. Increment the number of instances to 2. Please note that adding more than 2 instances do not give you any more points or advantages. 
 
 ![alt text](scale02.PNG)
 
