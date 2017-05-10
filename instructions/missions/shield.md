@@ -21,7 +21,7 @@ To start firing at the shield, we first need to have the Death Star exposing it'
 Example: GET ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/shield/43/43/RedSquad/RedXWingJavaclient```
 3. Deploy a new version of your microservice either by using [Continous Integration and Deployment](../deployment/deployment.md) or the [manual](../deployment/manually.md) approach. 
 4. When your updated microservice is live, you could use it to hit the Death Star's shield!
-5. If you feel that your microservice is not behaving correctly or might not have been deployed correctly, have a look at the logs as described [here](logs.md). If you are using the Continuous Integration and Deployment strategy, explore the status of your build in Developer Cloud as described [here](devcs.md)
+5. If you feel that your microservice is not behaving correctly or might not have been deployed correctly, have a look at the logs as described [here](../logs.md). If you are using the Continuous Integration and Deployment strategy, explore the status of your build in Developer Cloud as described [here](../devcs.md)
 
 ### Next: Fourth Mission ###
 
