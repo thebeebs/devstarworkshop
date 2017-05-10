@@ -4,16 +4,16 @@ If you have opted to use this approach, it means you will not to have to worry a
 Since your code is already cloned, all you need to do is to make a change on it, commit the change to your local repository and push it to the remote original repository in Developer Cloud Service. This will immediatelly trigger Developer Cloud Service continous integration pipeline, which it means that your code will compile, package a zip file and deploy automatically in Oracle Application Container Cloud.
 
 Let's first make a change to make sure that when you push the code, a difference in repositories is identified and the build job is properly triggered.
-So, depending on the language you chose, your code open and make the suggested change:
+So, depending on the language you chose, have your code opened and make the suggested change:
 
-**Node.JS**: Open file app.js and in the first line of it insert a comment line with your name and team. 
-            eg: //lisa.jones red team
+            **Node.JS**: Open file *app.js* and in the first line of it insert a comment line with your name and team. 
+                        eg: //lisa.jones red team
 
-**Java**: Open file XwingServlet.java and in the first line of it insert a comment line with your name and team. 
-            eg: /* lisa.jones red team*/
+            **Java**: Open file *XwingServlet.java* and in the first line of it insert a comment line with your name and team. 
+                        eg: /* lisa.jones red team*/
 
-**PHP**: TBD
-            eg: tbd
+            **PHP**: TBD
+                        eg: tbd
 
 Save the file.
 
