@@ -1,6 +1,7 @@
 ## How to .git clone your code locally ##
 
 
-![GIT COMMAND LINE QUICK TUTORIAL](commandlinegit.md)
 
-![ECLIPSE GIT QUICK TUTORIAL](eclipsegit.md)
+### [I want to use .git Command Line!](instructions/commandlinegit.md) ###
+
+### [I want to use eclipse git !](instructions/narrative.md) ###
