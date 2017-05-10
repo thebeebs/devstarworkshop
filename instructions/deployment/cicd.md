@@ -7,12 +7,14 @@ Let's first make a change to make sure that when you push the code, a difference
 So, depending on the language you chose, your code open and make the suggested change:
 
 Node.JS: Open file app.js and in the first line of it insert a comment line with your name and team. 
-
-eg: //lisa.jones red team
+            eg: //lisa.jones red team
 
 Java: Open file XwingServlet.java and in the first line of it insert a comment line with your name and team. 
+            eg: /* lisa.jones red team*/
 
-eg: /* lisa.jones red team*/
+PHP: TBD
+            eg: tbd
+
 
 Save the file.
 
