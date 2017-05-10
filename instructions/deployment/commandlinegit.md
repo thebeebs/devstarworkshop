@@ -7,7 +7,7 @@ So, let's start by locally clone the code you need. At this point you should alr
 Create a local folder in your machine. From inside that folder run git clone :
 
 
-![git init](gitManual02.png)
+![git init](git01.PNG)
 
 
 ![git init](gitManual02.png)
