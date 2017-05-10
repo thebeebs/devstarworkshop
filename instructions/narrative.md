@@ -4,7 +4,7 @@ The Death Star needs to be defeated. You and your X-Wing microservice fighters a
 
 The adventure is intense and a set of missions must be accomplished in order to achieve the desired victory!
 
-Fortunately, one of our companions is a spy have managed to sneak into the Death Star. During our mission, he will report valueable information that might help us bring down the Death Star!
+Fortunately, one of our companions is a spy and have managed to sneak into the Death Star. During our mission, he will report valueable information that might help us bring down the Death Star!
 
 ## How to play ##
 
@@ -14,10 +14,10 @@ By developing X-Wing fighters (microservices) in either Java, Node.js or PHP, yo
 
 #### Squads ####
 
-You work together in squads with the common goal to defeat the Death Star. A squad can consist of any number of members and skill level. When someone in the squad completes a mission on behalf of the team, the mission will be deemed completed for the entire squad.
+You work together in squads with the common goal to defeat the Death Star. A squad can consist of any number of members and skill level. When someone in the squad completes a mission on behalf of the squad, the mission will be deemed completed for the entire squad. This means that if another squad member completes the same mission, it will not give points. 
 
 ## Scoring ##
 
-The points are obtained as your team complete the missions. The sooner your team complete a mission the more points will get. But don't worry, also the last squad to complete a mission will give valuable damage to the Death Star. 
+The points are obtained as your squad completes the missions. The sooner your team completes a mission, the more points you will get. But don't worry, also the last squad to complete a mission will give valuable damage to the Death Star. 
 
 ### [Click here to select your squad!](squadSelection.md) ###
