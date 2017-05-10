@@ -9,9 +9,9 @@
 
 | Weapon        | Password     | Code  |
 | ------------- |-------------| -----|
-| Node.js      | Handed out | ``` git clone https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/BlackXwingNodeclient.git ``` |
-| Java SE      | Handed out      |   ```  git clone https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/BlackXwingJavaclient.git ``` |
-| PHP | Handed out      |  ```  git clone https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/BlackXwingPHPclient.git ``` |
+| Node.js      | Handed out | ``` https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/BlackXwingNodeclient.git ``` |
+| Java SE      | Handed out      |   ``` https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/BlackXwingJavaclient.git ``` |
+| PHP | Handed out      |  ```  https://roland.dubois@developer.em2.oraclecloud.com/developer67288-gse00003443/s/developer67288-gse00003443_entercard-project_3506/scm/BlackXwingPHPclient.git ``` |
 
 ### Next: .git Clone Code To your Local machine ###
 
