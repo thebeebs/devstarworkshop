@@ -3,12 +3,12 @@
 Open your Eclipse.
 Go to Window-->Show View-->Other....
 
-![git init](eclipsegit01.png)
+![Show View](eclipsegit01.png)
 
 Choose
 -->Git... and finally select the views # Git Repositories # and ## Git Staging ## :
 
-![git init](gitEclipseSimple01.PNG)
+![Choose Git](gitEclipseSimple01.PNG)
 
 
 Now, in the Git Repositories view, click: Clone a Git Repository.
@@ -16,16 +16,16 @@ Now, in the Git Repositories view, click: Clone a Git Repository.
 In the following window select Clone URL and then past the URL from the repositories you're trying to clone locally. Don't forget the credentials for your user:
 
 
-![git init](gitEclipseSimple02.PNG)
+![Past URL](gitEclipseSimple02.PNG)
 
 After selection the master repository, click Next and Finish. You now have the repository locally cloned:
 In Eclipse, right-click the repository-->Import Projects...
 
-![git init](gitEclipseSimple03.PNG)
+![Import Projects](gitEclipseSimple03.PNG)
 
 Click Finish and you should now have your project created in Eclipse project explorer view.
 
-![git init](gitEclipseSimple04.PNG)
+![Project Explorer](gitEclipseSimple04.PNG)
 
 
 ## USING GIT WITH ECLIPSE AND ORACLE CLOUD OEPE PLUGIN ##
