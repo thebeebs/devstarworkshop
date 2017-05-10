@@ -19,4 +19,8 @@ It might be necessary to view the build jobs console of the build that have been
 
 ![buildJobs](deployment/buildjobs.PNG)
 
+In here you will be able to see the log of the latest build job. This log can give you pointers if something went wrong:
 
+![buildLog](deployment/buildlog.png)
+
+### Deployment ###
