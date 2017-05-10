@@ -27,6 +27,9 @@ Click Finish and you should now have your project created in Eclipse project exp
 
 ![Project Explorer](gitEclipseSimple04.PNG)
 
+### Next: First Mission ###
+
+The code is cloned! You are ready to face your first mission! [click here](../missions/deploy.md) to start!
 
 ## USING GIT WITH ECLIPSE AND ORACLE CLOUD OEPE PLUGIN ##
 
@@ -48,3 +51,9 @@ This alternative is optional and if you followed the alternative in the previous
 
 
 ![git init](eclipsegit06.png)
+
+
+
+### Next: First Mission ###
+
+The code is cloned! You are ready to face your first mission! [click here](../missions/deploy.md) to start!
