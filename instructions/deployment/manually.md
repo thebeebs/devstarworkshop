@@ -30,9 +30,12 @@ Here are the steps you'll need to follow:
 ![alt text](createappaccs02.PNG)
 
 4) Application Artifacts: These are the available options for identifying the application archive location:
-Upload — Navigate to and upload your application archive and optionally a manifest file or deployment file. Click Browse to upload each of these files. Specifying a manifest file is required if your application archive doesn’t include this file.
 
-IF MANUALLY ALWAYS USE THE SAME NAME!
+Upload — Navigate to and upload your application archive and optionally a manifest file or deployment file. 
+Click Browse to upload each of these files. 
+Specifying a manifest file is required if your application archive doesn’t include this file.
+
+Important: Please, use allways the same name for the app you deploy! 
 
 ![alt text](createappaccs03.PNG)
 
