@@ -13,6 +13,6 @@
 | Java SE      | Handed out      |   ```  git clone https://lisa.jones@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/RedXwingJavaclient.git ``` |
 | PHP | Handed out      |  ```  git clone https://lisa.jones@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/RedXwingPHPclient.git ``` |
 
-### Next: Deployment Selection ###
+### Next: Clone Code Locally ###
 
-After you have cloned the code to your local machine, [click here](../deployment.md) to go to deployment selection!
+Now in order to have your code cloned to your local machine, [click here](../clonecode.md)!
