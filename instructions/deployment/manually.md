@@ -11,8 +11,6 @@ So remember, depending on language you choose different sets of requirements you
 
 At the end of the compilation process -regardless of language choosen - you should have a **zip file** containing the application and the  respective **manifest.json** file to proceed to deployment.
 
-If you are still convinced that the manual approach is the right one for you, go for it!!
-
 ## Using Application Container Cloud Service console to deploy ##
 
 Here are the steps you'll need to follow:
