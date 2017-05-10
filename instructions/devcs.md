@@ -24,3 +24,11 @@ In here you will be able to see the log of the latest build job. This log can gi
 ![buildLog](deployment/buildlog.png)
 
 ### Deployment ###
+
+To see the deployment status go to the Deploy tab in Developer Cloud. In the left side bar click on Deploy. Here you will see all the deployment configurations. Click on any of the deployments to see the deployment history.
+
+![deployments](deployment/deployments2.png)
+
+When you click on the log file you get into the following screen:
+
+![deploymentLog](deployment/deploylog.png)
