@@ -1,7 +1,15 @@
 ## USING GIT WITH ECLIPSE ##
 
 Open your Eclipse.
-Go to Window-->Show View-->Other-->Git... and choose the views # Git Repositories # and ## Git Staging ## . 
+Go to Window-->Show View-->Other....
+
+![git init](eclipsegit01.png)
+
+Choose
+-->Git... and finally select the views # Git Repositories # and ## Git Staging ## :
+
+![git init](gitEclipseSimple01.PNG)
+
 
 
 
