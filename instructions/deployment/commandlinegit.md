@@ -16,5 +16,5 @@ So, let's start by locally clone the code you need. At this point you should alr
 
 6. Now run ## git commit ## and write a message for the commit
 
-7. Finally, run ## git pus ## and if successfull, your code should be pushed and commited to the remote repository.
+7. Finally, run ## git push ## and if successfull, your code should be pushed and commited to the remote repository.
 
