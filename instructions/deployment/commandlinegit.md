@@ -1,9 +1,7 @@
 ## USING GIT WITH THE COMMAND LINE ##
 
 
-![git init](gitManual01.png)
-
-
+Create a local folder in your machine. From inside that folder run git clone :
 ![git init](gitManual02.png)
 
 
