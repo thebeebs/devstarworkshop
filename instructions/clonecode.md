@@ -15,3 +15,8 @@ If you prefer using Eclipse to perform Git actions, please find the instructions
 ### I want to use another IDE with built in Git ###
 
 We are not giving instructions on how to perform Git actions on every IDE. However, you should be able to use any IDE with Git support of your liking to clone the Git repositories.
+
+
+### Next: First Mission ###
+
+If you've cloned your code, you are ready to face your first mission! [click here](missions/deploy.md) to start your first mission!
