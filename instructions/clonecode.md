@@ -6,11 +6,11 @@ If you are already experienced with Git and you already have the neccessary tool
 
 ### I want to use the Git command line interface ###
 
-If you don't want an IDE such as Eclipse to perform Git actions for you but instead want to use the Git command line interface, check out the instructions [here!](instructions/commandlinegit.md)
+If you don't want an IDE such as Eclipse to perform Git actions for you but instead want to use the Git command line interface, check out the instructions [here!](instructions/commandlinegit.md)   
 
 ### I want to use Eclipse's built in Git ###
 
-If you prefer using Eclipse to perform Git actions, please find the instructions [here!](instructions/commandlinegit.md)
+If you prefer using Eclipse to perform Git actions, please find the instructions [here!](microserviceworkshop/instructions/deployment/eclipsegit.md)
 
 ### I want to use another IDE with built in Git ###
 
