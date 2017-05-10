@@ -9,9 +9,9 @@
 
 | Weapon        | Password     | Code  |
 | ------------- |-------------| -----|
-| Node.js      | Handed out | ``` https://cloud.admin@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/BlueXwingNodeClient.git ``` |
-| Java SE      | Handed out      |   ```  https://cloud.admin@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/BlueXwingJavaClient.git ``` |
-| PHP | Handed out      |  ```  https://cloud.admin@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/BlueXwingPHPClient.git ``` |
+| Node.js      | Handed out | ``` https://bala.gupta@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/BlueXwingNodeClient.git ``` |
+| Java SE      | Handed out      |   ```  https://bala.gupta@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/BlueXwingJavaClient.git ``` |
+| PHP | Handed out      |  ```  https://bala.gupta@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/BlueXwingPHPClient.git ``` |
 
 ### Next: .git Clone Code To your Local machine ###
 
