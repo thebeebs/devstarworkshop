@@ -13,6 +13,6 @@
 | Java SE      | Handed out      |   ```  https://cloud.admin@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/BlueXwingJavaClient.git ``` |
 | PHP | Handed out      |  ```  https://cloud.admin@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/BlueXwingPHPClient.git ``` |
 
-### Next: Deployment Selection ###
+### Next: .git Clone Code To your Local machine ###
 
-After you have cloned the code to your local machine, [click here](../deployment.md) to go to deployment selection!
+Now in order to have your code cloned to your local machine, [click here](../clonecode.md)!
