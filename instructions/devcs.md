@@ -12,3 +12,9 @@ Each squad has a Developer Cloud environment set up. This environment is optiona
 When logging in to Developer Cloud you will get to the main project page. This is where you can see the latest actions that have been performed.
 
 ![latestActionsDevCS](deployment/devcsproject.png)
+
+### Build Jobs ###
+
+It might be necessary to view the build jobs console of the build that have been set up for building the microservice. To do this go into the build tab in Developer Cloud. In the left side bar click on Build. Look for the microservice that you're working on and click the console output icon (red highlighted in the picure below):
+
+[!buildJobs](deployment/buildjobs.png)
