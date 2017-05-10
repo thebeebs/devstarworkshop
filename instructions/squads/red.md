@@ -13,6 +13,6 @@
 | Java SE      | Handed out      |   ```  git clone https://lisa.jones@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/RedXwingJavaclient.git ``` |
 | PHP | Handed out      |  ```  git clone https://lisa.jones@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/RedXwingPHPclient.git ``` |
 
-### Next: Clone Code Locally ###
+### Next: .git Clone Code To your Local machine ###
 
 Now in order to have your code cloned to your local machine, [click here](../clonecode.md)!
