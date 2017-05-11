@@ -3,7 +3,7 @@
 If you are here is because you are a brave Xwing fighter and you dont need help of your R2D2 with the compilation and deployment.
 So remember, depending on language you choose different sets of requirements you follow must! ;)
 
-  ** Java: Maven and JDK installed **
+  **Java: Maven and JDK installed**
   
   Inside the folder where your code is cloned:
   
