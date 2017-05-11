@@ -16,15 +16,13 @@ So remember, depending on language you choose different sets of requirements you
          java -jar XwingApp-1.0.jar
          
     If sucessfull, your application should be running in *http://localhost:8080*
-  
-  
+    
   *** To Zip the final deployable artefact, you should Zip the manifest.json file together with the jar file. ***
    
  
-  
-    **Node.js: NPM installed**
+  **Node.js: NPM installed**
     
-   Then to run or test locally:
+  To run or test locally:
     
          node ./bin/www
          
