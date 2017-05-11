@@ -37,4 +37,8 @@ Important: Please, use allways the same name for the app you deploy!
 
 ![alt text](createappaccs03.PNG)
 
+### Next: Back to Mission ###
+
+[Click here](../missions/deploy.md) to go back to the misison instructions!
+
 
