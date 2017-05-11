@@ -17,7 +17,6 @@ The spy should now have exposed the secrets of the database where the Death Star
 
 2. When you have the coordinates, hit the Reactor Core at the following URL:
 ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/reactorCore/{x-coordinate_goes_here}/{y-coordinate_goes_here}/{Your_squad_name_goes_here}/{Your_microservice_name_goes_here}```. **The Reactor Core will get hit by GET bullets!**
-Example: GET ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/reactorCore/45/45/RedSquad/RedXWingJavaclient/```
 
 3. Deploy a new version of your microservice either by using [Continous Integration and Deployment](deployment/cicd.md) or the [manual](deployment/manually.md) approach. 
 
