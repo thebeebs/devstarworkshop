@@ -47,7 +47,7 @@ Depending on what type of git clone approach you've followed, you should now hav
   4. Write a nice commit message and click Commit and Push.
 
 After pushing the code to the remote repository in Developer Cloud Service, why don't have a look on the result:
-[click here](scale.md) to go to the Developer Cloud Service.
+[click here](../devcs.md) to go to the instructions for Developer Cloud Service.
 
 ### Next: Back to Mission ###
 
