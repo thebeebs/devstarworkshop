@@ -1,5 +1,7 @@
 ## Deploy Manually ##
 
+**TODO:** Enter build instructions for the different languages here.
+
 If you are here is because you are a brave Xwing fighter and you dont need help of your R2D2 with the compilation and deployment.
 So remember, depending on language you choose different sets of requirements you follow must! ;)
 
