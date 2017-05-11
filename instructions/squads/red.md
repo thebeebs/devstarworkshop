@@ -10,7 +10,7 @@
 | Weapon        | Password     | Code  |
 | ------------- |-------------| -----|
 | Node.js      | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/RedXwingNodeClient.git ``` |
-| Java SE      | Handed out      |   ``` https://lisa.jones@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/BlueXwingJavaClient.git ``` |
+| Java SE      | Handed out      |   ``` https://lisa.jones@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/RedXwingJavaClient.git ``` |
 | PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_deathstar_5426/scm/RedXwingPHPclient.git ``` |
 
 
