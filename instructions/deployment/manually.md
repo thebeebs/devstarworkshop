@@ -17,7 +17,7 @@ So remember, depending on language you choose different sets of requirements you
          
   If sucessfull, your application should be running in *http://localhost:8080*
     
-  *** To Zip the final deployable artefact, you should Zip the manifest.json file together with the jar file. ***
+  ***To Zip the final deployable artefact, you should Zip the manifest.json file together with the jar file.***
    
    
    -----------------------------------------------------------------------------------------------------------------
@@ -34,7 +34,7 @@ So remember, depending on language you choose different sets of requirements you
   
   -----------------------------------------------------------------------------------------------------------------
 
-  ** PHP: Apache web server and PHP installed **
+  **PHP: Apache web server and PHP installed**
   
   PHP TBD
   
