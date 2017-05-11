@@ -25,12 +25,14 @@ Depending on what type of git clone approach you've followed, you should now hav
 +1. git command line
   
        git add .
-    Please notice the point(.) at the end of the expression;
+       
+   Please notice the point(.) at the end of the expression;
        
        git commit -m "Your commit message"
     
        git push
-    If successfull, your code should be pushed and commited to the remote repository.
+   
+   If successfull, your code should be pushed and commited to the remote repository.
     
 
 +2. git Eclipse 
