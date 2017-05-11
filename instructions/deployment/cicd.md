@@ -30,7 +30,7 @@ Depending on what type of git clone approach you've followed, you should now hav
        git commit -m "Your commit message"
     
        git push
-       If successfull, your code should be pushed and commited to the remote repository.
+    If successfull, your code should be pushed and commited to the remote repository.
     
 
 2. git Eclipse 
