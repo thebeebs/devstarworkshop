@@ -6,12 +6,39 @@ If you are here is because you are a brave Xwing fighter and you dont need help 
 So remember, depending on language you choose different sets of requirements you follow must! ;)
 
   ** Java: Maven and JDK installed **
-
-  ** Node.js: NPM installed **
+  
+  Inside the folder where your code is cloned:
+  
+  To build and compile:
+        
+         mvn clean package
+  
+  The to run or test locally:
+  
+         java -jar XwingApp-1.0.jar
+         
+    If sucessfull, your application should be running in *http://localhost:8080*
+  
+  
+  *** To Zip the final deployable artefact, you should Zip the manifest.json file together with the jar file. ***
+   
+ 
+  
+    ** Node.js: NPM installed **
+    
+    to run:
+    
+         node ./bin/www
+         
+    If sucessfull, your application should be running in *http://localhost:3000*
+    
+  *** To Zip the final deployable artefact, you should Zip everything in the xwingnodeclient folder. ***
 
   ** PHP: Apache web server and PHP installed **
+  
+  PHP TBD
 
-At the end of the compilation process -regardless of language choosen - you should have a **zip file** containing the application and the  respective **manifest.json** file to proceed to deployment.
+Note: At the end of the compilation process -regardless of language choosen - you should have a **zip file** containing the application and the  respective **manifest.json** file to proceed to deployment as explained above.
 
 ## Using Application Container Cloud Service console to deploy ##
 
