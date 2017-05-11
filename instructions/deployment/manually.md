@@ -1,9 +1,9 @@
-## Deploy Manually ##
+# Deploy Manually #
 
 If you are here is because you are a brave Xwing fighter and you dont need help of your R2D2 with the compilation and deployment.
 So remember, depending on language you choose different sets of requirements you follow must! ;) In the first part of this page we give you some hints and basic recommendations regarding compilation, testing locally and packaging. In the bottom of the page you'll find a tutorial with basic instructions to then deploy your application into Oracle Application Container Cloud Service.
 
-# BUILD AND PACKAGE #
+## BUILD AND PACKAGE ##
 
   **Java: Maven and JDK installed**
   
