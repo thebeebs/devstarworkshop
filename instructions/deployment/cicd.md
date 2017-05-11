@@ -22,7 +22,7 @@ Save the file.
 
 Depending on what type of git clone approach you've followed, you should now have 2 ways of commiting and pushing your code:
 
-1. git command line
++1. git command line
   
        git add .
     Please notice the point(.) at the end of the expression;
@@ -33,7 +33,7 @@ Depending on what type of git clone approach you've followed, you should now hav
     If successfull, your code should be pushed and commited to the remote repository.
     
 
-2. git Eclipse 
++2. git Eclipse 
 
   In Eclipse:
   1. Go to Git Staging view; 
