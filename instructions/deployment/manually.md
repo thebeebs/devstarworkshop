@@ -30,7 +30,7 @@ So remember, depending on language you choose different sets of requirements you
          
   If sucessfull, your application should be running in *http://localhost:3000*
     
-  *** To Zip the final deployable artefact, you should Zip everything in the xwingnodeclient folder. ***
+  ***To Zip the final deployable artefact, you should Zip everything in the xwingnodeclient folder.***
   
   -----------------------------------------------------------------------------------------------------------------
 
