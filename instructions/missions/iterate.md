@@ -2,7 +2,7 @@
 
 ### Mission Description ###
 
-The Death Star has sent out 100 TIE Fighters to attack your fighters! You need to take them down as soon as possible. The mission is completed when a squad has shot down all the TIE Fighters.
+The Death Star has sent out 10 TIE Fighters to attack your fighters! You need to take them down as soon as possible. The mission is completed when a squad has shot down all the TIE Fighters.
 
 ### Mission Awards ###
 
@@ -16,7 +16,6 @@ The Death Star has sent out 100 TIE Fighters to attack your fighters! You need t
 1. You should now have recieved information from the spy that will give you the y-coordinates of the TIE Fighters. The example below would shoot down ***one*** of the TIE Fighters. ***The x-coordinate is locked at 45***.
 
 ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/fighters/45/{y-coordinate_goes_here}/{Your_squad_name_goes_here}/{Your_microservice_name_goes_here}```. **The fighters will get hit by GET bullets!**
-Example: GET ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/fighters/45/5784358433/RedSquad/RedXWingJavaclient/```
 
 2. Deploy a new version of your microservice either by using [Continous Integration and Deployment](deployment/cicd.md) or the [manual](deployment/manually.md) approach. 
 
