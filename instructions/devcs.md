@@ -1,6 +1,6 @@
 ## Developer Cloud Instructions ##
 
-Each squad has a Developer Cloud environment set up. This environment is optional but to use. For each of the GIT repositories an automatic build and deployment is being provided. You will find the URL and the credentials in the Excel-sheed you were handed out.
+Each squad has a Developer Cloud environment set up. This environment is optional but to use. For each of the GIT repositories an automatic build and deployment is being provided. **You will find the URL and the credentials in the Excel-sheet you were handed out.**
 
 When logging in to Developer Cloud you will get to the main project page. This is where you can see the latest actions that have been performed.
 
