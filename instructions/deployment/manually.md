@@ -15,7 +15,7 @@ So remember, depending on language you choose different sets of requirements you
   
          java -jar XwingApp-1.0.jar
          
-    If sucessfull, your application should be running in *http://localhost:8080*
+  If sucessfull, your application should be running in *http://localhost:8080*
     
   *** To Zip the final deployable artefact, you should Zip the manifest.json file together with the jar file. ***
    
@@ -28,9 +28,11 @@ So remember, depending on language you choose different sets of requirements you
     
          node ./bin/www
          
-    If sucessfull, your application should be running in *http://localhost:3000*
+  If sucessfull, your application should be running in *http://localhost:3000*
     
   *** To Zip the final deployable artefact, you should Zip everything in the xwingnodeclient folder. ***
+  
+  -----------------------------------------------------------------------------------------------------------------
 
   ** PHP: Apache web server and PHP installed **
   
