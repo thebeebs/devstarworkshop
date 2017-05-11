@@ -22,7 +22,7 @@ So remember, depending on language you choose different sets of requirements you
    
  
   
-    ** Node.js: NPM installed **
+    **Node.js: NPM installed**
     
    Then to run or test locally:
     
