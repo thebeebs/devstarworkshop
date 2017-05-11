@@ -19,6 +19,8 @@ So remember, depending on language you choose different sets of requirements you
     
   *** To Zip the final deployable artefact, you should Zip the manifest.json file together with the jar file. ***
    
+   
+   -----------------------------------------------------------------------------------------------------------------
  
   **Node.js: NPM installed**
     
@@ -33,6 +35,8 @@ So remember, depending on language you choose different sets of requirements you
   ** PHP: Apache web server and PHP installed **
   
   PHP TBD
+  
+  -----------------------------------------------------------------------------------------------------------------
 
 Note: At the end of the compilation process -regardless of language choosen - you should have a **zip file** containing the application and the  respective **manifest.json** file to proceed to deployment as explained above.
 
