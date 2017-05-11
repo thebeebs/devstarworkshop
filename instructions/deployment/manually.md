@@ -11,7 +11,7 @@ So remember, depending on language you choose different sets of requirements you
         
          mvn clean package
   
-  The to run or test locally:
+  Then to run or test locally:
   
          java -jar XwingApp-1.0.jar
          
@@ -24,7 +24,7 @@ So remember, depending on language you choose different sets of requirements you
   
     ** Node.js: NPM installed **
     
-    to run:
+   Then to run or test locally:
     
          node ./bin/www
          
