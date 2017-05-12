@@ -1,5 +1,8 @@
 ## Mission 2. Scale your first fighter! ##
 
+![Mission2](MapScaleMission.PNG)
+
+
 ### Mission Description ###
 
 Your squad has now deployed one or several induvidual microservices (fighters). Our next mission will be add to another fighter to the squad by scaling up the number of instances for one of them. 
