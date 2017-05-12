@@ -1,5 +1,7 @@
 ## Mission 5. Shoot down the TIE Fighters ##
 
+![Mission5](MapIterateMission.PNG)
+
 ### Mission Description ###
 
 The Death Star has sent out 10 TIE Fighters to attack your fighters! You need to take them down as soon as possible. The mission is completed when a squad has shot down all the TIE Fighters.
@@ -26,3 +28,5 @@ The Death Star has sent out 10 TIE Fighters to attack your fighters! You need to
 ### Next: End ###
 
 If you haven't already completed the Reactor Core mission you can do that [here](database.md). If you have, your missions are completed! Congratulations!
+
+![Mission5](MapIterateMission.PNG)
