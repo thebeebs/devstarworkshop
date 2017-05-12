@@ -1,5 +1,7 @@
 ## Mission 4. Destroy the Reactor Core! ##
 
+![Mission4](MapDatabaseMission.PNG)
+
 ### Mission Description ###
 
 The spy should now have exposed the secrets of the database where the Death Star stores the coordinates to it's Reactor Core! When our spy returns with the information, find out the coordinates and attack it with your fighter!
@@ -27,3 +29,5 @@ The spy should now have exposed the secrets of the database where the Death Star
 ### Next: End ###
 
 If you haven't already completed the TIE Fighters mission you can do that [here](iterate.md). If you have, your missions are completed! Congratulations!
+
+![Mission4](MapDatabaseMission.PNG)
