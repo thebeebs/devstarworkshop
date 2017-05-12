@@ -1,6 +1,6 @@
 ## Mission 1. Deploy your first fighter! ##
 
-[![Mission1](MapDeployMission.PNG)
+![Mission1](MapDeployMission.PNG)
 
 Before you start your first mission, make sure you are ready as per below 
 
