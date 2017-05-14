@@ -6,13 +6,13 @@ Since your code is already cloned, all you need to do is to make a change on it,
 Let's first make a change to make sure that when you push the code, a difference in the repository is identified and the build job is properly triggered.
 So, depending on the language you chose, have your code opened and make the suggested change:
 
- **Node.JS**: Open file *xwingnodeclient/app.js* and in the first line of it insert a comment line with your name and team. 
+ **Node.JS**: Open the file *xwingnodeclient/app.js* and on the first line insert a comment line with your squad name. 
  
-                        eg: //lisa.jones red team
+                        eg: // YellowSquad
 
- **Java**: Open file *src/main/java/com/example/rest/App.java* and in the first line of it insert a comment line with your name and team. 
+ **Java**: Open the file *src/main/java/com/example/rest/App.java* and on the first line insert a comment line with your squad name. 
  
-                        eg: /* lisa.jones red team*/
+                        eg: // YellowSquad
 
  **PHP**: TBD
  
@@ -22,7 +22,7 @@ Save the file.
 
 Depending on what type of git clone approach you've followed, you should now have 2 ways of commiting and pushing your code:
 
-+1. git command line
+1. git command line
   
        git add .
        
@@ -35,7 +35,7 @@ Depending on what type of git clone approach you've followed, you should now hav
    If successfull, your code should be pushed and commited to the remote repository.
     
 
-+2. git Eclipse 
+2. git Eclipse 
 
   In Eclipse:
   1. Go to Git Staging view; 
