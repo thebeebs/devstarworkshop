@@ -51,5 +51,5 @@ After pushing the code to the remote repository in Developer Cloud Service, why 
 
 ### Next: Back to Mission ###
 
-[Click here](../missions/deploy.md) to go back to the misison instructions!
+[Click here](../missions/deploy.md) to go back to the mission instructions!
 
