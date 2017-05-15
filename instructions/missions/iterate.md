@@ -8,10 +8,8 @@ The Death Star has sent out 10 TIE Fighters to attack your fighters! You need to
 
 ### Mission Awards ###
 
-1. The first squad to shoot down all fighters will be awarded **500** points
-2. The second squad to shoot down all fighters will be awarded **375** points
-3. The third squad to shoot down all fighters will be awarded **250** points
-4. The fourth squad to shoot down all fighters will be awarded **125** points
+- Maximum number of points for this mission: **500**
+- Lesser points will be given to subsequent squads.
 
 ### Mission Instructions ###
 
