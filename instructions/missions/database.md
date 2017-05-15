@@ -8,10 +8,8 @@ The spy should now have exposed the secrets of the database where the Death Star
 
 ### Mission Awards ###
 
-1. The first squad to destroy the core reactor will be awarded **500** points
-2. The second squad to destroy the core reactor will be awarded **375** points
-3. The third squad to destroy the core reactor will be awarded **250** points
-4. The fourth squad to destroy the core reactor will be awarded **125** points
+- Maximum number of points for this mission: **500**
+- Lesser points will be given to subsequent squads.
 
 ### Mission Instructions ###
 
