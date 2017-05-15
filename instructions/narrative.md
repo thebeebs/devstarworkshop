@@ -1,8 +1,10 @@
 ## Introduction ##
 
-The Death Star needs to be defeated. You and your X-Wing microservice fighters are the last hope for the Rebels! 
+The Death Star needs to be defeated. You and your X-wing microservice fighters are the last hope for the Rebels! 
 
 The adventure is intense and a set of missions must be accomplished in order to achieve the desired victory!
+
+<img align="left" src="images/spyGalenErso.png" width = "60px">
 
 Fortunately, one of our companions is a spy and have managed to sneak into the Death Star. During our mission, he will report valueable information that might help us bring down the Death Star!
 
