@@ -8,15 +8,15 @@ So, depending on the language you chose, have your code opened and make the sugg
 
  **Node.JS**: Open the file *xwingnodeclient/app.js* and on the first line insert a comment line with your squad name. 
  
-                        eg: // YellowSquad
+                        eg: // Yellow
 
  **Java**: Open the file *src/main/java/com/example/rest/App.java* and on the first line insert a comment line with your squad name. 
  
-                        eg: // YellowSquad
+                        eg: // Yellow
 
- **PHP**: TBD
+ **PHP**: Open the file *index.php* and edit the line on row 2 (below "<php") and insert a comment line with your squad name.
  
-                        eg: tbd
+                        eg: // Yellow
 
 Save the file.
 
