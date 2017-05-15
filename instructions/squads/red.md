@@ -1,6 +1,6 @@
 ## Welcome to the Red Squad. Pick your weapon! ##
 
-+ Weapon selection strategy is completely up to your preference. Every squad members can have the same weapon, different weapons or chose to have no weapon at all.
++ Weapon selection strategy is completely up to your preference. Every squad member can have the same weapon, different weapons or chose to have no weapon at all.
 + Each git repository includes the basic code that is needed in order to run and deploy your microservice to the battle action!
 + On the next page, there will be instructions on how to clone the code to your local machine.
 
