@@ -6,7 +6,7 @@ Go to Window --> Show View --> Other...
 ![Show View](eclipsegit01.png)
 
 Choose
---> Git... and finally select the views ** Git Repositories ** and ** Git Staging **
+--> Git... and finally select the views **Git Repositories** and **Git Staging**
 
 ![Choose Git](gitEclipseSimple01.PNG)
 
