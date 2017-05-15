@@ -20,9 +20,9 @@ So, depending on the language you chose, have your code opened and make the sugg
 
 Save the file.
 
-Depending on what type of git clone approach you've followed, you should now have 2 ways of commiting and pushing your code:
+Depending on what type of git clone approach you've followed, you should now have 2 ways of commiting and pushing your code.
 
-1. git command line
+1. Using the Git command line interface
   
        git add .
        
@@ -32,15 +32,15 @@ Depending on what type of git clone approach you've followed, you should now hav
     
        git push
    
-   If successfull, your code should be pushed and commited to the remote repository.
+   If successfull, your code should be committed and pushed to the remote repository.
     
 
-2. git Eclipse 
+2. Using Eclipse with Git 
 
   In Eclipse:
-  1. Go to Git Staging view; 
+  1. Go to Git Staging view.
   
-  2. You should have visible the file you've changed in the Unstaged Changes area. 
+  2. You should have see the file you've changed in the Unstaged Changes area. 
   
   3. Drag & Drop the file from the previous point onto Staged Changes area. 
   
