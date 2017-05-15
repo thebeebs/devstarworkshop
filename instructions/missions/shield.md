@@ -1,6 +1,6 @@
 ## Mission 3. Take down the shield! ##
 
-![Mission3](MapShieldMission.PNG)
+![Mission3](MapShieldMission.png)
 
 ### Mission Description ###
 
@@ -32,5 +32,5 @@ To start firing at the shield, we first need to have the Death Star exposing it'
 
 The Death Star is getting weaker! Let's start attacking it more. [Click here](missionSelection.md) to continue!
 
-![Mission3](MapShieldMission.PNG)
+![Mission3](MapShieldMission.png)
 
