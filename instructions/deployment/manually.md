@@ -66,7 +66,7 @@ Upload — Navigate to and upload your zip file that you created in the previous
 
 ## Upload new version ##
 
-
+In the upcoming missions, whenever you want to upload a new version of your application, simply click on your application and then select **Deployments** -> **Upload New** -> **Application Archive** -> **Choose File** -> **OK**
 
 ### Next: Back to Mission ###
 
