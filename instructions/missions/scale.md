@@ -7,12 +7,8 @@
 
 Your squad has now deployed one or several induvidual microservices (fighters). Our next mission will be add to another fighter to the squad by scaling up the number of instances for one of them. 
 
-### Mission Awards ###
-
-1. The first squad to scale a microservice will be awarded **100** points
-2. The second squad to scale a microservice will be awarded **75** points
-3. The third squad to scale a microservice will be awarded **50** points
-4. The fourth squad to scale a microservice will be awarded **25** points
+- Maximum number of points for this mission: **100**
+- Lesser points will be given to subsequent squads.
 
 ### Mission Instructions ###
 
