@@ -26,7 +26,7 @@ So remember, depending on the language you choose, there are a couple of differe
  
   **Node.js: NPM installed**
     
-  Inside the folder where your code is cloned:
+  Inside the folder where your code is cloned, go to **xwingnodeclient**:
 
   To run or test locally:
     
