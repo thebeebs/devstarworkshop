@@ -3,9 +3,10 @@
 ![Mission5](MapIterateMission.PNG)
 
 ### Mission Description ###
-
-The Death Star has sent out 10 TIE Fighters to attack your fighters! You need to take them down as soon as possible. The mission is completed when a squad has shot down all the TIE Fighters.
-
+<img align="right" src="../images/Tie_fighters.jpg" width = "300px">
+<p align="left">
+The Death Star has sent out 10 TIE Fighters to attack your fighters! You need to take them down as soon as possible. The mission is completed when a squad has shot down all the TIE Fighters. 
+</p>
 ### Mission Awards ###
 
 - Maximum number of points for this mission: **500**
