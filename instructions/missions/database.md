@@ -20,7 +20,7 @@ The spy should now have exposed the secrets of the database where the Death Star
 ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/reactorCore/x-coordinate_goes_here/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g YellowXWingNode)```. 
 **The Reactor Core will get hit by HTTP GET Request bullets!**
 
-3. Deploy a new version of your microservice either by using [Continous Integration and Deployment](deployment/cicd.md) or the [manual](deployment/manually.md) approach. 
+3. Deploy a new version of your microservice either by using [Continous Integration and Deployment](../deployment/cicd.md) or the [manual](../deployment/manually.md) approach. 
 
 4. When your updated microservice is live, it will hopefully hit the Death Star's Reactor Core!
 
