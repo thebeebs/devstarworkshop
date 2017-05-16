@@ -1,6 +1,6 @@
 # Deploy Manually #
 
-If you are here is because you are a brave Xwing fighter and you don't need help of your R2D2 (Developer Cloud Service) with the package and deployment.
+If you are here is because you are a brave X-wing fighter and you don't need help of your R2D2 (Developer Cloud Service) with the package and deployment.
 So remember, depending on the language you choose, there are a couple of different requirements in order to be able to compile and package your applications locally. In the first part of this page we give you some hints and basic recommendations regarding compilation, testing locally and packaging. In the bottom of the page you'll find a tutorial with basic instructions on how to then deploy your application to Oracle Application Container Cloud.
 
 ## Build, package and test ##
