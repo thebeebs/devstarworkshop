@@ -6,7 +6,7 @@ Before you start your first mission, make sure you are ready as per below
 
 - [x] You understand the goal of the workshop
 - [x] You have grouped together with your squad
-- [x] You have recieved your squad's Idenditiy Domain, the username and the password
+- [x] You have recieved your squad's Identitiy Domain, the username and the password
 - [x] You have selected which weapon you, as a member of your squad, will be using
 - [x] You are able to clone the source code of your weapon to your local machine. Either by ```git clone``` command or with an IDE with Git support.
 
