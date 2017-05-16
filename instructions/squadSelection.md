@@ -1,8 +1,8 @@
 ## Select Your Squad! ##
-| [Blue Squad](squads/blue.md)  | [White Squad](squads/white.md) | [Yellow Squad](squads/yellow.md) | [Pink Squad](squads/pink.md) |
+| [Blue](squads/blue.md)  | [White](squads/white.md) | [Yellow](squads/yellow.md) | [Pink](squads/pink.md) |
 |:---:|:---:|:---:|:---:|
 
-| [Brown Squad](squads/brown.md)  | [Orange Squad](squads/orange.md) | [Green Squad](squads/green.md) | [Purple Squad](squads/purple.md) |
+| [Brown](squads/brown.md)  | [Orange](squads/orange.md) | [Green](squads/green.md) | [Purple](squads/purple.md) |
 |:---:|:---:|:---:|:---:|
 
 
