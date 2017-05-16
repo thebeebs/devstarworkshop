@@ -20,7 +20,7 @@ To start firing at the shield, we first need to have the Death Star exposing it'
 
 2. We now need to fire at the coordinates of the shield! Use your selected weapon to implement a function that fires against the shield. The base URL of the shield is ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/shield/x-coordinate_goes_here/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g YellowXWingNode)```. **The shield will get hit by HTTP GET Request bullets!**
 
-3. Deploy a new version of your microservice either by using [Continous Integration and Deployment](../deployment/deployment.md) or the [manual](../deployment/manually.md) approach. 
+3. Deploy a new version of your microservice either by using [Continous Integration and Deployment](../deployment/cicd.md) or the [manual](../deployment/manually.md) approach. 
 
 4. When your updated microservice is live, it will hopefully hit the Death Star's shield!
 
