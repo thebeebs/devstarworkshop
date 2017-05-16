@@ -18,7 +18,7 @@ The Death Star has sent out 10 TIE Fighters to attack your fighters! You need to
 
 ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/fighters/45/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g YellowXWingNode)```. **The TIE Fighters will get hit by HTTP GET Request bullets!**
 
-2. Deploy a new version of your microservice either by using [Continous Integration and Deployment](deployment/cicd.md) or the [manual](deployment/manually.md) approach. 
+2. Deploy a new version of your microservice either by using [Continous Integration and Deployment](../deployment/cicd.md) or the [manual](../deployment/manually.md) approach. 
 
 3. When your updated microservice is live, it will hopefully hit the TIE Fighters sent out by the Death Star!
 
