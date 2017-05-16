@@ -5,7 +5,7 @@
 ### Mission Description ###
 
 Your squad is ready and it should now have one or more microservices with at least one of them having 2 instances.
-
+<img align="right" src="../images/shield.png" width = "400px">
 The Death Star is protected by it's powerful shield. As long as we can't break through the shield, we will have a hard time hitting the core reactors of the Death Star.
 To start firing at the shield, we first need to have the Death Star exposing it's coordinates. Keep an eye out on what our spy is saying. It should be in the SPY section of the Dashboard.
 
