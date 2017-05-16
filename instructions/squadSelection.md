@@ -4,3 +4,5 @@
 
 | [Brown Squad](squads/brown.md)  | [Orange Squad](squads/orange.md) |[Green Squad](squads/green.md) | [Purple Squad](squads/purple.md) |
 |:---:|:---:|:---:|:---:|
+
+
