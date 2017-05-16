@@ -32,7 +32,7 @@ So remember, depending on the language you choose, there are a couple of differe
     
          node ./bin/www
          
-  If successfull, your application should be running in *http://localhost:3000*
+  If successfull, your application should be running in *http://localhost:3001*
     
   **To Zip the final deployable artefact, you should Zip everything in the xwingnodeclient folder.**
   
