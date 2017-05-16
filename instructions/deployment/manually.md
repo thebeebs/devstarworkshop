@@ -26,6 +26,8 @@ So remember, depending on the language you choose, there are a couple of differe
  
   **Node.js: NPM installed**
     
+  Inside the folder where your code is cloned:
+
   To run or test locally:
     
          node ./bin/www
