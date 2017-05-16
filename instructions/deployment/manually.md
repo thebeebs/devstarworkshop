@@ -60,9 +60,10 @@ Here are the steps you'll need to follow:
 
 ![alt text](createappaccs02.PNG)
 
-4) Application Artifacts: These are the available options for identifying the application archive location:
+4) Application Artifacts: Press Choose File for Archive and navigate to your zip file.
+For name, enter something that is easily identified, e.g BlueXwingNode
 
-Upload — Navigate to and upload your zip file that you created in the previous step.
+Press Create.
 
 ![alt text](createappaccs03.PNG)
 
