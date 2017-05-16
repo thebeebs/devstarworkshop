@@ -40,7 +40,7 @@ Depending on what type of git clone approach you've followed, you should now hav
   In Eclipse:
   1. Go to Git Staging view.
   
-  2. You should have see the file you've changed in the Unstaged Changes area. 
+  2. You should now see the file you've changed in the Unstaged Changes area. 
   
   3. Drag & Drop the file from the previous point onto Staged Changes area. 
   
