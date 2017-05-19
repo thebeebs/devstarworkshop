@@ -18,11 +18,11 @@ If we manage to decrypt the password, we should be able to access the control pa
 1. Wait until our spy has found the encrypted password!
 
 2. Try to decrypt the password. You will be given the following hints:
-**HEX** **Decimal** **Alphabet** **100** **200** **Pattern**
+**HEX**, **Decimal**, **Alphabet**, **100**, **200**, **Pattern**, **Ceasar Box**
 
 ![Ceasar Map](../images/caesarbox.jpg)
 
-3. To access the fuel tank you will need to enter the decrypted password in the Authentication header of the request. The base URL of the Fuel Tank is ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/fueltank/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g YellowXWingNode)```. **The shield will get hit by HTTP GET Request bullets!** ```Headers: Authorization: passwordGoesHere´´´
+3. To access the Fuel Tank you will need to enter the decrypted password in the Authentication header of the request. The base URL of the Fuel Tank is ```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/fueltank/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g YellowXWingNode)```. **The shield will get hit by HTTP GET Request bullets!** ```Headers: Authorization: passwordGoesHere```
 
 4. Deploy a new version of your microservice either by using [Continous Integration and Deployment](../deployment/cicd.md) or the [manual](../deployment/manually.md) approach. 
 
