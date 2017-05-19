@@ -28,6 +28,6 @@ The spy should now have exposed the secrets of the database where the Death Star
 
 ### Next: End ###
 
-If you haven't already completed the TIE Fighters mission you can do that [here](iterate.md). If you have, your missions are completed! Congratulations!
+If you haven't already completed the TIE Fighters mission you can do that [here](iterate.md). If you have, you can continue on to the last mission - [Hacking the Fuel Tank](fuelTank.md)
 
 ![Mission4](MapDatabaseMission.PNG)
