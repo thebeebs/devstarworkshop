@@ -17,9 +17,10 @@ If we manage to decrypt the password, we should be able to access the control pa
 
 1. Wait until our spy has found the decrypted password! The pass
 
-2. Try to decrypt the password 
+2. Try to decrypt the password. You will be given the following hints:
+**HEX** **Decimal** **Alphabet** **100** **200** **Pattern**
 
-![Ceasar Map](../images/caesarbox.jpg.jph)
+![Ceasar Map](../images/caesarbox.jpg)
 
 3. Deploy a new version of your microservice either by using [Continous Integration and Deployment](../deployment/cicd.md) or the [manual](../deployment/manually.md) approach. 
 
