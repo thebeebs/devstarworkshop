@@ -26,6 +26,6 @@ The Death Star has sent out 10 TIE Fighters to attack your fighters! You need to
 
 ### Next: End ###
 
-If you haven't already completed the Reactor Core mission you can do that [here](database.md). If you have, your missions are completed! Congratulations!
+If you haven't already completed the Reactor Core mission you can do that [here](database.md). If you have, you can continue on to the last mission - [Hacking the Fuel Tank](fuelTank.md)
 
 ![Mission5](MapIterateMission.PNG)
