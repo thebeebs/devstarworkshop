@@ -11,8 +11,8 @@
 | ------------- |-------------| -----|
 | Node.js      | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer13247-gse00010896/s/developer13247-gse00010896_brown-squad_5570/scm/BrownXwingNode.git ``` |
 | Java SE      | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer13247-gse00010896/s/developer13247-gse00010896_brown-squad_5570/scm/BrownXwingJava.git ``` |
-| Node.js      | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer13247-gse00010896/s/developer13247-gse00010896_brown-squad_5570/scm/BrownXwingNode2.git ``` |
-| Java SE      | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer13247-gse00010896/s/developer13247-gse00010896_brown-squad_5570/scm/BrownXwingJava2.git ``` |
+| Node.js 2    | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer13247-gse00010896/s/developer13247-gse00010896_brown-squad_5570/scm/BrownXwingNode2.git ``` |
+| Java SE 2    | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer13247-gse00010896/s/developer13247-gse00010896_brown-squad_5570/scm/BrownXwingJava2.git ``` |
 | PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer13247-gse00010896/s/developer13247-gse00010896_brown-squad_5570/scm/BrownXwingPHP.git ``` |
 
 ### Next: .git Clone Code To your Local machine ###
