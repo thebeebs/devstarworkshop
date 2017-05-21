@@ -9,9 +9,11 @@
 
 | Weapon        | Password     | Code  |
 | ------------- |-------------| -----|
-| Node.js      | Handed out | ``` https://john.dunbar@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_yellow-squad_5567/scm/YellowXwingNode.git ``` |
-| Java SE      | Handed out      |   ```  https://john.dunbar@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_yellow-squad_5567/scm/YellowXwingJava.git ``` |
-| PHP | Handed out      |  ```  https://john.dunbar@developer.em2.oraclecloud.com/developer69313-gse00010206/s/developer69313-gse00010206_yellow-squad_5567/scm/YellowXwingPHP.git ``` |
+| Node.js      | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer32791-gse00010168/s/developer32791-gse00010168_yellow-squad_5659/scm/YellowXwingNode.git ``` |
+| Java SE      | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer32791-gse00010168/s/developer32791-gse00010168_yellow-squad_5659/scm/YellowXwingJava.git ``` |
+| Node.js 2    | Handed out | ```https://lisa.jones@developer.em2.oraclecloud.com/developer32791-gse00010168/s/developer32791-gse00010168_yellow-squad_5659/scm/YellowXwingNode2.git ``` |
+| Java SE 2    | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer32791-gse00010168/s/developer32791-gse00010168_yellow-squad_5659/scm/YellowXwingJava2.git ``` |
+| PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer32791-gse00010168/s/developer32791-gse00010168_yellow-squad_5659/scm/YellowXwingPHP.git ``` |
 
 ### Next: .git Clone Code To your Local machine ###
 
