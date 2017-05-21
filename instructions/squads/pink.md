@@ -9,9 +9,11 @@
 
 | Weapon        | Password     | Code  |
 | ------------- |-------------| -----|
-| Node.js      | Handed out | ``` https://john.dunbar@developer.em2.oraclecloud.com/developer53776-gse00010909/s/developer53776-gse00010909_pink-squad_5569/scm/PinkXwingNode.git ``` |
-| Java SE      | Handed out      |   ```  https://john.dunbar@developer.em2.oraclecloud.com/developer53776-gse00010909/s/developer53776-gse00010909_pink-squad_5569/scm/PinkXwingJava.git ``` |
-| PHP | Handed out      |  ```  https://john.dunbar@developer.em2.oraclecloud.com/developer53776-gse00010909/s/developer53776-gse00010909_pink-squad_5569/scm/PinkXwingPHP.git ``` |
+| Node.js      | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer52828-gse00010851/s/developer52828-gse00010851_pink-squad_5657/scm/PinkXwingNode.git ``` |
+| Java SE      | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer52828-gse00010851/s/developer52828-gse00010851_pink-squad_5657/scm/PinkXwingJava.git ``` |
+| Node.js 2      | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer52828-gse00010851/s/developer52828-gse00010851_pink-squad_5657/scm/PinkXwingNode2.git ``` |
+| Java SE 2     | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer52828-gse00010851/s/developer52828-gse00010851_pink-squad_5657/scm/PinkXwingJava2.git ``` |
+| PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer52828-gse00010851/s/developer52828-gse00010851_pink-squad_5657/scm/PinkXwingPHP.git ``` |
 
 ### Next: .git Clone Code To your Local machine ###
 
