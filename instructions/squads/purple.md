@@ -9,9 +9,12 @@
 
 | Weapon        | Password     | Code  |
 | ------------- |-------------| -----|
-| Node.js      | Handed out | ``` https://john.dunbar@developer.em2.oraclecloud.com/developer18474-gse00010886/s/developer18474-gse00010886_purple-squad_5573/scm/PurpleXwingNode.git ``` |
-| Java SE      | Handed out      |   ```  https://john.dunbar@developer.em2.oraclecloud.com/developer18474-gse00010886/s/developer18474-gse00010886_purple-squad_5573/scm/PurpleXwingJava.git ``` |
-| PHP | Handed out      |  ```  https://john.dunbar@developer.em2.oraclecloud.com/developer18474-gse00010886/s/developer18474-gse00010886_purple-squad_5573/scm/PurpleXwingPHP.git ``` |
+| Node.js      | Handed out | ``` https://developer.em2.oraclecloud.com/developer85693-gse00003472/s/developer85693-gse00003472_purple-squad_5654/scm/PurpleXwingNode.git ``` |
+| Java SE      | Handed out      |   ```  https://developer.em2.oraclecloud.com/developer85693-gse00003472/s/developer85693-gse00003472_purple-squad_5654/scm/PurpleXwingJava.git ``` |
+| PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer53776-gse00010909/s/developer53776-gse00010909_white-squad_5568/scm/WhiteXwingPHP.git ``` |
+| Node.js 2     | Handed out | ``` https://developer.em2.oraclecloud.com/developer85693-gse00003472/s/developer85693-gse00003472_purple-squad_5654/scm/PurpleXwingNode2.git ``` |
+| Java SE 2    | Handed out      |   ```  https://developer.em2.oraclecloud.com/developer85693-gse00003472/s/developer85693-gse00003472_purple-squad_5654/scm/PurpleXwingJava2.git ``` |
+| PHP | Handed out      |  ```  https://developer.em2.oraclecloud.com/developer85693-gse00003472/s/developer85693-gse00003472_purple-squad_5654/scm/PurpleXwingPHP.git ``` |
 
 ### Next: .git Clone Code To your Local machine ###
 
