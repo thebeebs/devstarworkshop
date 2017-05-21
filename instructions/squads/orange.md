@@ -9,9 +9,11 @@
 
 | Weapon        | Password     | Code  |
 | ------------- |-------------| -----|
-| Node.js      | Handed out | ``` https://john.dunbar@developer.em2.oraclecloud.com/developer13247-gse00010896/s/developer13247-gse00010896_orange-squad_5571/scm/OrangeXwingNode.git ``` |
-| Java SE      | Handed out      |   ```  https://john.dunbar@developer.em2.oraclecloud.com/developer13247-gse00010896/s/developer13247-gse00010896_orange-squad_5571/scm/OrangeXwingJava.git ``` |
-| PHP | Handed out      |  ```  https://john.dunbar@developer.em2.oraclecloud.com/developer13247-gse00010896/s/developer13247-gse00010896_orange-squad_5571/scm/OrangeXwingPHP.git ``` |
+| Node.js      | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer65226-gse00003476/s/developer65226-gse00003476_orange_5655/scm/OrangeXwingNode.git ``` |
+| Java SE      | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer65226-gse00003476/s/developer65226-gse00003476_orange_5655/scm/OrangeXwingJava.git ``` |
+| Node.js      | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer65226-gse00003476/s/developer65226-gse00003476_orange_5655/scm/OrangeXwingNode2.git ``` |
+| Java SE      | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer65226-gse00003476/s/developer65226-gse00003476_orange_5655/scm/OrangeXwingJava2.git ``` |
+| PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer65226-gse00003476/s/developer65226-gse00003476_orange_5655/scm/OrangeXwingPHP.git ``` |
 
 ### Next: .git Clone Code To your Local machine ###
 
