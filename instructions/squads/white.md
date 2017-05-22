@@ -14,7 +14,7 @@
 | PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer53776-gse00010909/s/developer53776-gse00010909_white-squad_5568/scm/WhiteXwingPHP.git ``` |
 | Node.js 2     | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer53776-gse00010909/s/developer53776-gse00010909_white-squad_5568/scm/WhiteXwingNode2.git ``` |
 | Java SE 2    | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer53776-gse00010909/s/developer53776-gse00010909_white-squad_5568/scm/WhiteXwingJava2.git ``` |
-| PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer53776-gse00010909/s/developer53776-gse00010909_white-squad_5568/scm/WhiteXwingPHP.git ``` |
+| PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer53776-gse00010909/s/developer53776-gse00010909_white-squad_5568/scm/WhiteXwingPHP2.git ``` |
 
 ### Next: .git Clone Code To your Local machine ###
 
