@@ -18,7 +18,7 @@ If we manage to decrypt the password, we should be able to access the control pa
 1. Wait until our spy has found the encrypted password!
 
 2. Try to decrypt the password. You will be given the following hints:
-**HEX**, **Decimal**, **Alphabet**, **100**, **200**, **Pattern**, **Ceasar Box**
+**HEX**, **Decimal**, **Alphabet**, **-100**, **-200**, **Pattern**, **Ceasar Box**
 
 ![Ceasar Map](../images/caesarbox.jpg)
 
