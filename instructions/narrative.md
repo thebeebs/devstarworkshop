@@ -6,7 +6,7 @@ The adventure is intense and a set of missions must be accomplished in order to 
 
 <img align="left" src="images/spyGalenErso.png" width = "60px">
 
-Fortunately, one of our companions is a spy, Galen Erso, and have managed to sneak into the Death Star. During our mission, he will report valueable information that might help us bring down the Death Star!
+Fortunately, one of our companions is a spy, Galen Erso, and have managed to sneak into the Death Star. During our missions, he will report valueable information that might help us bring down the Death Star!
 
 ## How to play ##
 
