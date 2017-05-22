@@ -13,7 +13,7 @@
 | Java SE      | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer49240-gse00010876/s/developer49240-gse00010876_blue-squad_5658/scm/BlueXwingJava.git ``` |
 | Node.js 2    | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer49240-gse00010876/s/developer49240-gse00010876_blue-squad_5658/scm/BlueXwingNode2.git ``` |
 | Java SE 2    | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer49240-gse00010876/s/developer49240-gse00010876_blue-squad_5658/scm/BlueXwingJava2.git ``` |
-| PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer49240-gse00010876/s/developer49240-gse00010876_blue-squad_5658/scm/BlueXwingPHP.gitt ``` |
+| PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer49240-gse00010876/s/developer49240-gse00010876_blue-squad_5658/scm/BlueXwingPHP.git ``` |
 
 ### Next: Clone the code to your local machine ###
 
