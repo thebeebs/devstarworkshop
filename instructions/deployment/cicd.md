@@ -18,6 +18,10 @@ So, depending on the language you chose, have your code opened and make the sugg
  
                         eg: // Yellow
 
+ **Ruby**: Open the file *xwingrubyclient/app.rb* and on the first line insert a comment line with your squad name. 
+ 
+                        eg: # Yellow
+
 Save the file.
 
 Depending on what type of git clone approach you've followed, you should now have 2 ways of commiting and pushing your code.
@@ -32,7 +36,7 @@ Depending on what type of git clone approach you've followed, you should now hav
     
        git push
    
-   If successfull, your code should be committed and pushed to the remote repository.
+   If successful, your code should be committed and pushed to the remote repository.
     
 
 2. Using Eclipse with Git 

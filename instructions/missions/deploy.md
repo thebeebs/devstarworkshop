@@ -23,7 +23,7 @@ In order to take up the battle against the Death Star, your squad would need to 
 
 1. To deploy your fighter, you will select and use one of two deployment strategies.
 + Deployment strategy is completely up to your preference. Every squad member can have the same or different type of deployment strategy.
-+ In short, the **Continuous Integration and Deployment** strategy means that you push the code from your local machine to the Git repository. Oracle Developer Cloud will then automatically build, package and deploy your application to Application Container Cloud. The **manual** approach means that you build and zip your application locally and then deploy that zip file in the Application Container Cloud user interface. This requires that you have the correct build tools installed on your local machine (Maven and JDK for Java and NPM for Node.js).
++ In short, the **Continuous Integration and Deployment** strategy means that you push the code from your local machine to the Git repository. Oracle Developer Cloud will then automatically build, package and deploy your application to Application Container Cloud. The **manual** approach means that you build and zip your application locally and then deploy that zip file in the Application Container Cloud user interface. This requires that you have the correct build tools installed on your local machine (Maven and JDK for Java, Ruby (interpreter) and Bundler for Ruby and NPM for Node.js).
 + Select your preferred deployment strategy by clicking them below. If you change your mind you can go back here and select another deployment strategy.
 
 | [![Continuous](../cicd.png)](../deployment/cicd.md)  | [![Manual](../manually.png)](../deployment/manually.md)

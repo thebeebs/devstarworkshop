@@ -17,9 +17,9 @@ So remember, depending on the language you choose, there are a couple of differe
   
          java -jar target/XwingApp-1.0.jar
          
-  If successfull, your application should be running at *http://localhost:8080*
+  If successful, your application should be running at *http://localhost:8080*
     
- **To Zip the final deployable artefact, you should Zip the manifest.json file together with the target/XwingApp-1.0.jar file. Alternatively, you should find a zip file in the target folder that you can deploy directly**
+ **To zip the final deployable artefact, you should zip the manifest.json file together with the target/XwingApp-1.0.jar file. Alternatively, you should find a zip file in the target folder that you can deploy directly**
    
    
    -----------------------------------------------------------------------------------------------------------------
@@ -32,9 +32,9 @@ So remember, depending on the language you choose, there are a couple of differe
     
          node ./bin/www
          
-  If successfull, your application should be running in *http://localhost:3001*
+  If successful, your application should be running at *http://localhost:3001*
     
-  **To Zip the final deployable artefact, you should Zip everything in the xwingnodeclient folder.**
+  **To zip the final deployable artefact, you should zip everything in the xwingnodeclient folder.**
   
   -----------------------------------------------------------------------------------------------------------------
 
@@ -42,6 +42,24 @@ So remember, depending on the language you choose, there are a couple of differe
   
   This tutorial does not cover the details of running a PHP application locally. If you have selected this weapon, we trust you know how to run a PHP file on a local server such as Apache. However, once you are happy, zip your PHP files together with the manifest.json into a zip file.
   
+  -----------------------------------------------------------------------------------------------------------------
+
+  **Ruby: Ruby and bundler gem installed**
+
+  Inside the folder where your code is cloned go to **xwingrubyclient**
+
+  To install the required gems run:
+    
+         bundle install
+    
+  Then to run or test locally:
+    
+         bundle exec ruby app.rb
+    
+  If successful, your application should be running at *http://localhost:4567*
+
+  **To zip the final deployable artefact, you should zip your Ruby files, Gemfile, manifest.json and a script to run "bundle install" before running "bundle exec".  Do not include bundle or .bundle directories in the zip file.**
+
   -----------------------------------------------------------------------------------------------------------------
 
 Note: At the end of the compilation process, regardless of language,  you should have a **zip file** containing the application (or static content) and the respective **manifest.json** file to proceed to deployment as explained below.
