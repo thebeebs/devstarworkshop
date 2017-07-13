@@ -38,7 +38,7 @@ __END__
 <html>
   <body>
     <a href="/rest_request_example">REST request example</a><br/>
-    <a href="/read_db_raw_SQL_example">Read DB using Raw SQL example</a>
+    <a href="/read_db_raw_SQL_example">Read DB using Raw SQL example</a><br/>
     <a href="/read_db_Sequel_ORM_example">Read DB using Sequel ORM example</a>
   </body>
 </html>

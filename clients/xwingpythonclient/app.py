@@ -1,5 +1,6 @@
 import requests
 from flask import Flask
+from flask import render_template
 from flask_sqlalchemy import SQLAlchemy
 
 # create Flask app
@@ -7,8 +8,8 @@ app = Flask(__name__)
 
 # GET request to ip.jsontest.com
 @app.route('/')
-def index():
-    return 'Hello, Flask!'
+def home():
+    return render_template('home.html')
 
 # TO - DO: links from '/' to the other routes
 
