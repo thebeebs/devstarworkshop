@@ -1,5 +1,6 @@
 import requests
 from flask import Flask
+from flask_sqlalchemy import SQLAlchemy
 
 # create Flask app
 app = Flask(__name__)
