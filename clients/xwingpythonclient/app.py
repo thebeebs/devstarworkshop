@@ -11,11 +11,17 @@ app = Flask(__name__)
 def home():
     return render_template('home.html')
 
-# TO - DO: links from '/' to the other routes
-
 @app.route('/rest_request_example')
 def rest_request_example():
     return requests.get("http://ip.jsontest.com").text
+
+@app.route('/read_db_SQLAlchemy_example')
+def read_db_SQLAlchemy_example():
+    return "I want my DB!"
+
+@app.route('/read_db_raw_SQL_example')
+def read_db_raw_SQL_example():
+    return "I want my DB!"
 
 if __name__ == '__main__':
     app.run(debug=True);
