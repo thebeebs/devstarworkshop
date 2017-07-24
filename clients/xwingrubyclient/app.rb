@@ -13,12 +13,12 @@ end
 
 get '/read_db_raw_SQL_example' do
   ds = db["SELECT * FROM SampleTable"]
-  ds.each {|r| puts r }
+  ds.each {|r| puts "#{r} <br/>" }
 end
 
 get '/read_db_Sequel_ORM_example' do
   ds = db[:SampleTable]
-  ds.each {|r| puts r }
+  ds.each {|r| puts "#{r} <br/>" }
 end
 
 def db

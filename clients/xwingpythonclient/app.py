@@ -3,7 +3,6 @@ import MySQLdb
 import os
 from flask import Flask
 from flask import render_template
-from flask_sqlalchemy import SQLAlchemy
 
 # create Flask app
 app = Flask(__name__)
@@ -21,8 +20,8 @@ def rest_request_example():
 def read_db_SQLAlchemy_example():
     return "I want my DB!"
 
-@app.route('/read_db_raw_SQL_example')
-def read_db_raw_SQL_example():
+@app.route('/read_db_SQL_example')
+def read_db_SQL_example():
     cursor = get_db().cursor()
     sql = "SELECT * FROM SampleTable"
     cursor.execute(sql)
@@ -45,4 +44,4 @@ def get_db():
         db=my_db)
 
 if __name__ == '__main__':
-    app.run(debug=True,host='0.0.0.0', port=int(os.environ["PORT"]));
+    app.run(debug=True,host='0.0.0.0', port=int(os.environ["PORT"]))
