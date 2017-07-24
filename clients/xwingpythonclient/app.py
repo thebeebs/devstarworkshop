@@ -16,10 +16,6 @@ def home():
 def rest_request_example():
     return requests.get("http://ip.jsontest.com").text
 
-@app.route('/read_db_SQLAlchemy_example')
-def read_db_SQLAlchemy_example():
-    return "I want my DB!"
-
 @app.route('/read_db_SQL_example')
 def read_db_SQL_example():
     cursor = get_db().cursor()
