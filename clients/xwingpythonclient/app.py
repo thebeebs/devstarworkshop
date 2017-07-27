@@ -1,11 +1,12 @@
 import requests
-import MySQLdb
 import os
 from flask import Flask
 from flask import render_template
+from config import Configuration
 
 # create Flask app
 app = Flask(__name__)
+app.config.from_object(Configuration)
 
 # GET request to ip.jsontest.com
 @app.route('/')
@@ -40,4 +41,4 @@ def get_db():
         db=my_db)
 
 if __name__ == '__main__':
-    app.run(debug=True,host='0.0.0.0', port=int(os.environ["PORT"]))
+    app.run(host=app.config['HOST'], port=app.config['PORT'])
