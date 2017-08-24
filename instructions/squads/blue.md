@@ -9,11 +9,11 @@
 
 | Weapon        | Password     | Code  |
 | ------------- |-------------| -----|
-| Node.js      | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer49240-gse00010876/s/developer49240-gse00010876_blue-squad_5658/scm/BlueXwingNode.git ``` |
-| Java SE      | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer49240-gse00010876/s/developer49240-gse00010876_blue-squad_5658/scm/BlueXwingJava.git ``` |
-| Node.js 2    | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer49240-gse00010876/s/developer49240-gse00010876_blue-squad_5658/scm/BlueXwingNode2.git ``` |
-| Java SE 2    | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer49240-gse00010876/s/developer49240-gse00010876_blue-squad_5658/scm/BlueXwingJava2.git ``` |
-| PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer49240-gse00010876/s/developer49240-gse00010876_blue-squad_5658/scm/BlueXwingPHP.git ``` |
+| Node.js      | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer04585-gse00002047/s/developer04585-gse00002047_blue_6626/scm/BlueNodeXwingClient.git ``` |
+| Java SE      | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer04585-gse00002047/s/developer04585-gse00002047_blue_6626/scm/BlueJavaXwingClient.git ``` |
+| Node.js 2    | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer04585-gse00002047/s/developer04585-gse00002047_blue_6626/scm/BlueXwingNodeClient2.git ``` |
+| Java SE 2    | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer04585-gse00002047/s/developer04585-gse00002047_blue_6626/scm/BlueJavaXwingClient2.git ``` |
+| PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer04585-gse00002047/s/developer04585-gse00002047_blue_6626/scm/BlueXwingNodeClient2.git ``` |
 
 ### Next: Clone the code to your local machine ###
 
