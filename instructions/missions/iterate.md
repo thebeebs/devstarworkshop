@@ -25,7 +25,8 @@ The Death Star has sent out 10 TIE Fighters to attack your fighters! You need to
 4. If you feel that your microservice is not behaving correctly or might not have been deployed correctly, have a look at the logs as described [here](../logs.md). If you are using the Continuous Integration and Deployment strategy, explore the status of your build in Developer Cloud as described [here](../devcs.md)
 
 ### Next: End ###
-
+<!-- and without jargon in this [Technograph article](http://www.dailyillini.com/article/2016/04/automatic-speech-recognition). 
 If you haven't already completed the Reactor Core mission you can do that [here](database.md). If you have, you can continue on to the last mission - [Hacking the Fuel Tank](fuelTank.md)
-
+-->
+Congratulations! You are done!
 ![Mission5](MapIterateMission.PNG)
