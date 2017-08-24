@@ -9,11 +9,11 @@
 
 | Weapon        | Password     | Code  |
 | ------------- |-------------| -----|
-| Node.js      | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer32791-gse00010168/s/developer32791-gse00010168_yellow-squad_5659/scm/YellowXwingNode.git ``` |
-| Java SE      | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer32791-gse00010168/s/developer32791-gse00010168_yellow-squad_5659/scm/YellowXwingJava.git ``` |
-| Node.js 2    | Handed out | ```https://lisa.jones@developer.em2.oraclecloud.com/developer32791-gse00010168/s/developer32791-gse00010168_yellow-squad_5659/scm/YellowXwingNode2.git ``` |
-| Java SE 2    | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer32791-gse00010168/s/developer32791-gse00010168_yellow-squad_5659/scm/YellowXwingJava2.git ``` |
-| PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer32791-gse00010168/s/developer32791-gse00010168_yellow-squad_5659/scm/YellowXwingPHP.git ``` |
+| Node.js      | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer99287-gse00002321/s/developer99287-gse00002321_yellow_6655/scm/YellowXwingNodeClient.git ``` |
+| Java SE      | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer99287-gse00002321/s/developer99287-gse00002321_yellow_6655/scm/YellowXwingJavaClient.git ``` |
+| Node.js 2    | Handed out | ```https://lisa.jones@developer.em2.oraclecloud.com/developer99287-gse00002321/s/developer99287-gse00002321_yellow_6655/scm/YellowXwingNodeClient2.git ``` |
+| Java SE 2    | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer99287-gse00002321/s/developer99287-gse00002321_yellow_6655/scm/YellowXwingJavaClient2.git ``` |
+| PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer99287-gse00002321/s/developer99287-gse00002321_yellow_6655/scm/YellowXwingPHPClient.git ``` |
 
 ### Next: .git Clone Code To your Local machine ###
 
