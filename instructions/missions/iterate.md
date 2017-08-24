@@ -16,7 +16,7 @@ The Death Star has sent out 10 TIE Fighters to attack your fighters! You need to
 
 1. You should now have recieved information from the spy that will give you the y-coordinates of the TIE Fighters. The example below would shoot down ***one*** of the TIE Fighters. ***The x-coordinate is locked at coordinate 45***.
 
-```140.86.35.229:3000/fighters/45/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g YellowXWingNode)```. **The TIE Fighters will get hit by HTTP GET Request bullets!**
+```http://140.86.35.229:3000/fighters/45/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g YellowXWingNode)```. **The TIE Fighters will get hit by HTTP GET Request bullets!**
 
 2. Deploy a new version of your microservice either by using [Continous Integration and Deployment](../deployment/cicd.md) or the [manual](../deployment/manually.md) approach. 
 
