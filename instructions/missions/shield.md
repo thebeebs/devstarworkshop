@@ -28,7 +28,7 @@ To start firing at the shield, we first need to have the Death Star exposing it'
 
 ### Next: Fourth Mission ###
 
-The Death Star is getting weaker! Let's start attacking it more. [Click here](missionSelection.md) to continue!
+The Death Star is getting weaker! Let's start attacking it more. [Click here](iterate.md) to continue!
 
 ![Mission3](MapShieldMission.png)
 
