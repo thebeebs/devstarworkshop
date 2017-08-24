@@ -13,7 +13,7 @@
 | Java SE      | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer04585-gse00002047/s/developer04585-gse00002047_blue_6626/scm/BlueJavaXwingClient.git ``` |
 | Node.js 2    | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer04585-gse00002047/s/developer04585-gse00002047_blue_6626/scm/BlueXwingNodeClient2.git ``` |
 | Java SE 2    | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer04585-gse00002047/s/developer04585-gse00002047_blue_6626/scm/BlueJavaXwingClient2.git ``` |
-| PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer04585-gse00002047/s/developer04585-gse00002047_blue_6626/scm/BlueXwingNodeClient2.git ``` |
+| PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer04585-gse00002047/s/developer04585-gse00002047_blue_6626/scm/BlueXwingPHPClient.git ``` |
 
 ### Next: Clone the code to your local machine ###
 
