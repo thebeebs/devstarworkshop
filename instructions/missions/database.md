@@ -17,7 +17,7 @@ The spy should now have exposed the secrets of the database where the Death Star
 1. You should now have recieved information from the spy about the credentials to the Death Star MySQL database where the coordinates for the Core Reactor is kept. Develop a MySQL query that queries the **MissionDatabase** table to retrieve information about the Reactor Core coordinates!
 
 2. When you have the coordinates, hit the Reactor Core at the following URL:
-```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/reactorCore/x-coordinate_goes_here/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g YellowXWingNode)```. 
+```https://140.86.35.229:3000/reactorCore/x-coordinate_goes_here/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g YellowXWingNode)```. 
 **The Reactor Core will get hit by HTTP GET Request bullets!**
 
 3. Deploy a new version of your microservice either by using [Continous Integration and Deployment](../deployment/cicd.md) or the [manual](../deployment/manually.md) approach. 
