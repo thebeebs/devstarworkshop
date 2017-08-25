@@ -43,7 +43,7 @@ So remember, depending on the language you choose, there are a couple of differe
   This tutorial does not cover the details of running a PHP application locally. If you have selected this weapon, we trust you know how to run a PHP file on a local server such as Apache. However, once you are happy, zip your PHP files together with the manifest.json into a zip file.
   
   -----------------------------------------------------------------------------------------------------------------
-
+<!--
   **Ruby: Ruby and bundler gem installed**
 
   Inside the folder where your code is cloned go to **xwingrubyclient**
@@ -61,7 +61,7 @@ So remember, depending on the language you choose, there are a couple of differe
   **To zip the final deployable artefact, you should zip your Ruby files, Gemfile, manifest.json and a script to run "bundle install" before running "bundle exec".  Do not include bundle or .bundle directories in the zip file.**
 
   -----------------------------------------------------------------------------------------------------------------
-
+-->
 Note: At the end of the compilation process, regardless of language,  you should have a **zip file** containing the application (or static content) and the respective **manifest.json** file to proceed to deployment as explained below.
 
 ## Using Application Container Cloud console to deploy ##
