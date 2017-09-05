@@ -12,7 +12,7 @@ Fortunately, one of our companions is a spy, Galen Erso, and have managed to sne
 
 #### Objective ####
 
-By developing X-wing fighters (microservices) in either Java, Node.js, Ruby or PHP, you will complete missions in order to defeat the Death Star. The missions will be explained in the instructions, but you can't complete some of the missions without valuable information from the spy.
+By developing X-wing fighters (microservices) in either Java, Node.js or PHP, you will complete missions in order to defeat the Death Star. The missions will be explained in the instructions, but you can't complete some of the missions without valuable information from the spy.
 
 #### Squads ####
 

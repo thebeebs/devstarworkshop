@@ -16,7 +16,7 @@ The Death Star has sent out 10 TIE Fighters to attack your fighters! You need to
 
 1. You should now have recieved information from the spy that will give you the y-coordinates of the TIE Fighters. The example below would shoot down ***one*** of the TIE Fighters. ***The x-coordinate is locked at coordinate 45***.
 
-```https://ds-backend-gse00010206.apaas.em2.oraclecloud.com/fighters/45/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g YellowXWingNode)```. **The TIE Fighters will get hit by HTTP GET Request bullets!**
+```http://140.86.35.229:3000/fighters/45/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g YellowXWingNode)```. **The TIE Fighters will get hit by HTTP GET Request bullets!**
 
 2. Deploy a new version of your microservice either by using [Continous Integration and Deployment](../deployment/cicd.md) or the [manual](../deployment/manually.md) approach. 
 
@@ -25,7 +25,8 @@ The Death Star has sent out 10 TIE Fighters to attack your fighters! You need to
 4. If you feel that your microservice is not behaving correctly or might not have been deployed correctly, have a look at the logs as described [here](../logs.md). If you are using the Continuous Integration and Deployment strategy, explore the status of your build in Developer Cloud as described [here](../devcs.md)
 
 ### Next: End ###
-
+<!-- and without jargon in this [Technograph article](http://www.dailyillini.com/article/2016/04/automatic-speech-recognition). 
 If you haven't already completed the Reactor Core mission you can do that [here](database.md). If you have, you can continue on to the last mission - [Hacking the Fuel Tank](fuelTank.md)
-
+-->
+Congratulations! You are done!
 ![Mission5](MapIterateMission.PNG)

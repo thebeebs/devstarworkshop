@@ -9,11 +9,11 @@
 
 | Weapon        | Password     | Code  |
 | ------------- |-------------| -----|
-| Node.js      | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer18474-gse00010886/s/developer18474-gse00010886_green-squad_5572/scm/GreenXwingNode.git ``` |
-| Java SE      | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer18474-gse00010886/s/developer18474-gse00010886_green-squad_5572/scm/GreenXwingJava.git ``` |
-| PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer18474-gse00010886/s/developer18474-gse00010886_green-squad_5572/scm/GreenXwingPHP.git ``` |
-| Node.js 2     | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer18474-gse00010886/s/developer18474-gse00010886_green-squad_5572/scm/GreenXwingNode2.git ``` |
-| Java SE 2     | Handed out      |   ```  https://lisa.jonesa@developer.em2.oraclecloud.com/developer18474-gse00010886/s/developer18474-gse00010886_green-squad_5572/scm/GreenXwingJava2.git ``` |
+| Node.js      | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer92524-gse00002323/s/developer92524-gse00002323_green_6654/scm/GreenXwingNode.git ``` |
+| Java SE      | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer92524-gse00002323/s/developer92524-gse00002323_green_6654/scm/GreenXwingJava.git ``` |
+| PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer92524-gse00002323/s/developer92524-gse00002323_green_6654/scm/GreenXwingPHP.git ``` |
+| Node.js 2     | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer92524-gse00002323/s/developer92524-gse00002323_green_6654/scm/GreenXwingNode2.git ``` |
+| Java SE 2     | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer92524-gse00002323/s/developer92524-gse00002323_green_6654/scm/GreenXwingJava2.git ``` |
 
 ### Next: .git Clone Code To your Local machine ###
 
