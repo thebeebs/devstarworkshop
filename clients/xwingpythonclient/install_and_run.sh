@@ -3,5 +3,5 @@
 # download dependencies
 pip install -r requirements.txt
 
-# run in context of bundle
+# run app
 python app.py
