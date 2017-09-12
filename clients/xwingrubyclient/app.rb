@@ -23,9 +23,10 @@ end
 
 def db
   @db ||= Sequel.connect(
-    'mysql2://' + ENV["MYSQLCS_CONNECT_STRING"],
-    :user => ENV["MYSQLCS_USER_NAME"],
-    :password => ENV["MYSQLCS_USER_PASSWORD"]
+  'mysql2://' + ENV.fetch('MYSQLCS_CONNECT_STRING',
+                          '127.0.0.1:3306/sample_db'),
+    :user => ENV.fetch('MYSQLCS_USER_NAME','root'),
+    :password => ENV.fetch('MYSQLCS_USER_PASSWORD','Welcome_1')
   )
 end
 
