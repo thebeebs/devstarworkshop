@@ -9,9 +9,9 @@
 
 | Weapon        | Password     | Code  |
 | ------------- |-------------| -----|
-| Node.js      | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer99287-gse00002321/s/developer99287-gse00002321_yellow_6655/scm/YellowXwingNodeClient.git ``` |
+| Node.js      | Handed out | ``` https://lisa.jones@developer.em2.oraclecloud.com/developer99287-gse00002321/s/developer99287-gse00002321_yellow_6655/scm/YellowJava2FighterClient.git ``` |
 | Java SE      | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer99287-gse00002321/s/developer99287-gse00002321_yellow_6655/scm/YellowXwingJavaClient.git ``` |
-| Node.js 2    | Handed out | ```https://lisa.jones@developer.em2.oraclecloud.com/developer99287-gse00002321/s/developer99287-gse00002321_yellow_6655/scm/YellowXwingNodeClient2.git ``` |
+| Node.js 2    | Handed out | ```https://lisa.jones@developer.em2.oraclecloud.com/developer99287-gse00002321/s/developer99287-gse00002321_yellow_6655/scm/YellowJava2FighterClient2.git ``` |
 | Java SE 2    | Handed out      |   ```  https://lisa.jones@developer.em2.oraclecloud.com/developer99287-gse00002321/s/developer99287-gse00002321_yellow_6655/scm/YellowXwingJavaClient2.git ``` |
 | PHP | Handed out      |  ```  https://lisa.jones@developer.em2.oraclecloud.com/developer99287-gse00002321/s/developer99287-gse00002321_yellow_6655/scm/YellowXwingPHPClient.git ``` |
 

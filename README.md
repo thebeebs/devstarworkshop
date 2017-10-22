@@ -1,12 +1,12 @@
 
 ---
-# ORACLE Workshop - Defeating the Death Star Microservice #
+# ORACLE Workshop - Becoming the Dev Star #
 
 ## Introduction ##
 
-In this workshop you will work together in order to complete the mission – defeating the Death Star microservice.
+In this workshop you will work together in squads to complete the mission – becoming the Dev Star.
 
-Choose your platform weapon of choice (Node.js, Java or PHP) and develop and deploy cloud native microservices that will help defeat the Death Star microservice.
+Choose your platform space fighter of choice (Node.js, Java or PHP) and develop and deploy cloud native microservices that will help defeat the Alien War Ship.
 
 You will learn how to build, manage and deploy cloud native microservices.
 

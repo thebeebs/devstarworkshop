@@ -1,7 +1,7 @@
 ## Clone code using Git ##
 
 We now need to clone one of the Git repositories displayed on the previous page to our local machine.
-If you are already experienced with Git and you already have the neccessary tools, you might already know how to get a copy of the repository for your weapon to you local machine. In that case, just ignore the instructions below and continue on to the [first mission](missions/deploy.md).
+If you are already experienced with Git and you already have the necessary tools, you might already know how to get a copy of the repository for your weapon to you local machine. In that case, just ignore the instructions below and continue on to the [first mission](missions/deploy.md).
 
 
 ### I want to use the Git command line interface ###
