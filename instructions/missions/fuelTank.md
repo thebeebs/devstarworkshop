@@ -1,6 +1,4 @@
-## Mission 6. Hack the Fuel Tank! ##
-
-![Mission6](MapFuelTankMission.PNG)
+## Mission: Hack the Fuel Tank! ##
 
 ### Mission Description ###
 
@@ -35,5 +33,3 @@ If we manage to decrypt the password, we should be able to access the control pa
 ### Next: End ###
 
 Congratulations! You have completed all the missions!
-
-![Mission4](MapFuelTankMission.PNG)

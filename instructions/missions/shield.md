@@ -1,6 +1,4 @@
-## Mission 3. Take down the shield! ##
-
-![Mission3](MapShieldMission.png)
+## Mission: Take down the shield! ##
 
 ### Mission Description ###
 
@@ -33,5 +31,3 @@ To start firing at the shield, we first need to have the Alien War Ship exposing
 ### Next: Fourth Mission ###
 
 The Alien War Ship is getting weaker! Let's start attacking it more. [Click here](iterate.md) to continue!
-
-![Mission3](MapShieldMission.png)

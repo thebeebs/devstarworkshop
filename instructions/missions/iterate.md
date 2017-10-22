@@ -1,6 +1,4 @@
-## Mission 5. Shoot down the Mini Fighters ##
-
-![Mission5](MapIterateMission.PNG)
+## Mission: Shoot down the Mini Fighters ##
 
 ### Mission Description ###
 
@@ -33,4 +31,3 @@ The Alien War Ship has sent out 10 Mini Fighters to attack your fighters! You ne
 If you haven't already completed the Reactor Core mission you can do that [here](database.md). If you have, you can continue on to the last mission - [Hacking the Fuel Tank](fuelTank.md)
 -->
 Congratulations! You are done!
-![Mission5](MapIterateMission.PNG)

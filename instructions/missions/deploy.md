@@ -1,6 +1,4 @@
-## Mission 1. Deploy your first fighter! ##
-
-![Mission1](MapDeployMission.PNG)
+## Mission: Deploy your first fighter! ##
 
 Before you start your first mission, make sure you are ready as per below
 
@@ -34,5 +32,3 @@ In order to take up the battle against the Alien War Ship, your squad would need
 ### Next: Second Mission ###
 
 If your microservice is already up and running [click here](scale.md) to continue on with the next mission!
-
-![Mission1](MapDeployMission.PNG)

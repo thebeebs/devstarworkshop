@@ -4,7 +4,7 @@ The Alien War Ship needs to be defeated. You and your space microservice fighter
 
 The adventure is intense and a set of missions must be accomplished in order to achieve the desired victory!
 
-<img align="left" src="images/spyGalenErso.png" width = "60px">
+<img align="left" src="images/devstar_spy.png" width = "60px">
 
 Fortunately, one of our companions is a spy, Tom Kurious, and have managed to sneak into the Alien War Ship. During our missions, he will report valueable information that might help us bring down the Alien War Ship!
 

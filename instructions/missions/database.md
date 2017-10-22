@@ -1,6 +1,4 @@
-## Mission 4. Destroy the Reactor Core! ##
-
-![Mission4](MapDatabaseMission.PNG)
+## Mission: Destroy the Reactor Core! ##
 
 ### Mission Description ###
 
@@ -33,5 +31,3 @@ The spy should now have exposed the secrets of the database where the Alien War 
 ### Next: End ###
 
 If you haven't already completed the Mini Fighters mission you can do that [here](iterate.md). If you have, you can continue on to the last mission - [Hacking the Fuel Tank](fuelTank.md)
-
-![Mission4](MapDatabaseMission.PNG)
