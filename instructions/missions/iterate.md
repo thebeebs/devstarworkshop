@@ -28,4 +28,4 @@ The Alien War Ship has sent out 10 Mini Fighters to attack your fighters! You ne
 
 ### Next: REPLACE_WITH_NEXT ###
 
-REPLACE_WITH_NEXT_DESC
+REPLACE_WITH_DESC
