@@ -28,6 +28,6 @@ The spy should now have exposed the secrets of the database where the Alien War 
 
 5. If you feel that your microservice is not behaving correctly or might not have been deployed correctly, have a look at the logs as described [here](../logs.md). If you are using the Continuous Integration and Deployment strategy, explore the status of your build in Developer Cloud as described [here](../devcs.md)
 
-### Next: End ###
+### Next: You are finished ###
 
-If you haven't already completed the Mini Fighters mission you can do that [here](iterate.md). If you have, you can continue on to the last mission - [Hacking the Fuel Tank](fuelTank.md)
+Congratulations! You are finished! If the Alien War Ship is still alive, help out your colleagues!
