@@ -19,7 +19,7 @@ The spy should now have exposed the secrets of the database where the Alien War 
 + Note to instructor: Edit this page with the correct IP address and port in the URL.
 -->
 2. When you have the coordinates, hit the Reactor Core at the following URL:
-```https://REPLACE_WITH_IP:3000/reactorCore/x-coordinate_goes_here/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g YellowJava2Fighter)```.
+```http://REPLACE_WITH_IP:3000/reactorCore/x-coordinate_goes_here/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g YellowJava2Fighter)```.
 **The Reactor Core will get hit by HTTP GET Request bullets!**
 
 3. Deploy a new version of your microservice either by using [Continuous Integration and Deployment](../deployment/cicd.md) or the [manual](../deployment/manually.md) approach.
