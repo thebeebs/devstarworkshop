@@ -18,7 +18,7 @@ The Alien War Ship has sent out 10 Mini Fighters to attack your fighters! You ne
 + Note to instructor: Edit this page with the correct IP address and port in the URL.
 -->
 
-```REPLACE_WITH_IP:3000/fighters/45/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g YellowJava2Fighter)```. **The Mini Fighters will get hit by HTTP GET Request bullets!**
+```http://REPLACE_WITH_IP:3000/fighters/45/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g YellowJava2Fighter)```. **The Mini Fighters will get hit by HTTP GET Request bullets!**
 
 2. Deploy a new version of your microservice either by using [Continuous Integration and Deployment](../deployment/cicd.md) or the [manual](../deployment/manually.md) approach.
 
