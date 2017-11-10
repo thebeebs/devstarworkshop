@@ -2,7 +2,7 @@
 
 ### Mission Description ###
 
-<img align="right" src="../images/fighters.jpg" width = "300px">
+<img align="right" src="../images/fighters.png" width = "300px">
 The Alien War Ship has sent out 10 Mini Fighters to attack your fighters! You need to take them down as soon as possible. The mission is completed when a squad has shot down all the Mini Fighters.
 
 ### Mission Awards ###
