@@ -4,6 +4,8 @@
 
 ## Introduction ##
 
+<img align="left" src="images/alienwarship.png">
+
 In this workshop you will work together in squads to complete the mission – becoming the Dev Star.
 
 Choose your platform space fighter of choice (Node.js, Java or PHP) and develop and deploy cloud native microservices that will help defeat the Alien War Ship.
