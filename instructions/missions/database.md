@@ -2,7 +2,7 @@
 
 ### Mission Description ###
 
-<img align="right" src="../images/reactorCore.png" width = "400px">
+<img align="right" src="../images/spaceship_core.png" width = "400px">
 The spy should now have exposed the secrets of the database where the Alien War Ship stores the coordinates to it's Reactor Core! When our spy returns with the information, find out the coordinates and attack it with your fighter!
 
 ### Mission Awards ###
