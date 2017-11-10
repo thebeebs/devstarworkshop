@@ -4,7 +4,7 @@
 
 ## Introduction ##
 
-<img align="left" src="images/alienwarship.png">
+<img src="images/spaceship.png">
 
 In this workshop you will work together in squads to complete the mission – becoming the Dev Star.
 
