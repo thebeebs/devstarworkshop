@@ -24,7 +24,7 @@ In order to take up the battle against the Alien War Ship, your squad would need
 
 The flow is highlighted below.
 
-[![Continuous](../cicd.png)](../deployment/cicd.md) 
+[![Continuous](../cicd.png)](deploy.md) 
 
 You will not to have to worry about compilation, package and deployment.
 Since your code is already cloned, all you need to do is to make a change on it, commit the change to your local repository and push it to the remote original repository in Developer Cloud Service. This will immediately trigger Developer Cloud Service continous integration pipeline, which means that your code will compile, package a zip file and deploy it automatically to Oracle Application Container Cloud.
