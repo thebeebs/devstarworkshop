@@ -1,6 +1,6 @@
 ## Clone using Git command line interface ##
 
-First, make sure you have the Git URL for the weapon of your selection (displayed after [squad selection](../squadSelection.md)).
+First, make sure you have the Git URL for the weapon of your selection on the previous page.
 
 1. Create a local folder in your machine. 
 
