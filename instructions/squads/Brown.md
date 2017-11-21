@@ -8,7 +8,7 @@
 + Note to instructor: Edit this page with the git repository information fetched from the squad's Developer Cloud project.
 -->
 
-| ![Node](nodejs.png)  | ![Java](javase.png) | ![PHP](php.png) |
+| [![Node](nodejs.png)](Brown.md) | [![Java](javase.png)](Brown.md) | [![PHP](php.png)](Brown.md) |
 |:---:|:---:|:---:|
 
 | Weapon        | Password     | Code  |
