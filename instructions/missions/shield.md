@@ -22,9 +22,9 @@ To start firing at the shield, we first need to have the Alien War Ship exposing
 
 2. We now need to fire at the coordinates of the shield! You will do this by changing the code in your microservice and deploy the new version. 
 
-- For Java, the file is located at xwingjavaclient/src/main/java/com/example/rest/App.java
-- For Node.js, the file is located at xwingnodeclient/xwingnodeclient/app.js
-- For PHP, the file is located at xwingphpclient/index.php
+- For Java, the file is located at xwingjavaclient/src/main/java/com/example/rest/App.java (in the folder where you locally cloned the code)
+- For Node.js, the file is located at xwingnodeclient/xwingnodeclient/app.js (in the folder where you locally cloned the code)
+- For PHP, the file is located at xwingphpclient/index.php (in the folder where you locally cloned the code)
 
 The base URL of the shield is ```http://REPLACE_WITH_IP:3000/shield/x-coordinate_goes_here/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g Java2Fighter)```. **The shield will get hit by HTTP GET Request bullets!**
 
