@@ -79,7 +79,7 @@ Depending on what type of git clone approach you've followed, you should now hav
   4. Write a nice commit message and click Commit and Push.
 
 After pushing the code to the remote repository in Developer Cloud Service, why don't have a look on the result:
-[click here](..deployment//devcs.md) to go to the instructions for Developer Cloud Service.
+[click here](../devcs.md) to go to the instructions for Developer Cloud Service.
 
 2. Monitor the Dev Star dashboard to await your fighter being deployed! If you can't see the Dashboard well on the projector/screen, just open the URL from the Excel document. Your space fighter should appear in the dashboard and complete it's first strike to the Alien War Ship!
 
