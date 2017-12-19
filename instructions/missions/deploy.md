@@ -63,7 +63,7 @@ So, depending on the language you chose, have your code opened and make the sugg
 
        git add .
 
-       git commit -m "Your commit message"
+       git commit -m "My first commit"
 
        git push
 
