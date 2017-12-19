@@ -1,6 +1,6 @@
 ## Welcome to the Blue Squad. Let's get ready! ##
 
-Now it is time to access your development environment. Click on below button to access
+Now it is time to access your development environment. Click on below 'Developer Workspace' button to access your environment!
 
 [![Node](codenvy-contribute.svg)](http://140.86.13.129/dashboard/#/ide/che/White)
 
