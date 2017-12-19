@@ -2,7 +2,7 @@
 
 1. Now it is time to access your development environment. Right click on below 'Developer Workspace' button and open it in a new tab, to access your environment! 
 
-[![dev](codenvy-contribute.svg)](http://140.86.13.129/dashboard/#/ide/che/White)
+[![dev](codenvy-contribute.svg)](http://REPLACE_WITH_IP/dashboard/#/ide/che/Blue)
 
 You should now have access to something similair as below, make sure that your project in the Project Explorer matches the color of your squad.
 
@@ -19,10 +19,10 @@ It is now time to select your weapon of choice.
 | Weapon        | Password     | Git Clone Command  |
 | ------------- |-------------| -----|
 | Node.js 1      | Handed out | ``` git clone https://lisa.jones@REPLACENode1.git Blue/Node1 ``` |
-| Java SE 1     | Handed out      |   ```  https://lisa.jones@REPLACEJava1.git ``` |
-| Node.js 2    | Handed out | ``` https://lisa.jones@REPLACENode2.git ``` |
-| Java SE 2    | Handed out      |   ```  https://lisa.jones@REPLACEJava2.git ``` |
-| PHP | Handed out      |  ```  https://lisa.jones@REPLACEPHP.git ``` |
+| Java SE 1     | Handed out      |   ``` git clone https://lisa.jones@REPLACEJava1.git Blue/Java1 ``` |
+| Node.js 2    | Handed out | ``` git clone https://lisa.jones@REPLACENode2.git Blue/Node2 ``` |
+| Java SE 2    | Handed out      |   ``` git clone https://lisa.jones@REPLACEJava2.git Blue/Java2 ``` |
+| PHP | Handed out      |  ``` git clone https://lisa.jones@REPLACEPHP.git Blue/PHP ``` |
 
 2. Copy the preferred Weapon's Git Clone Command from above. Discuss with your squad members to make sure you are not using the same one! 
 
