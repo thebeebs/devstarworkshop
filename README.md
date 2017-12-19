@@ -20,7 +20,7 @@ You will learn how to build, manage and deploy cloud native microservices.
 
 Laptop with a browser. We will provide the complete development experience entirely in the Cloud!
 
-Familiarity with any of the following coding languages: Java, PHP or Node.js.
+Familiarity with any of the following coding languages is an advantage: Java, PHP or Node.js.
 
 ### [Click here to get started!](instructions/narrative.md) ###
 
