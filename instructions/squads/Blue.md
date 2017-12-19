@@ -1,6 +1,6 @@
 ## Welcome to the Blue Squad. Let's get ready! ##
 
-Now it is time to access your development environment. 
+Now it is time to access your development environment. Click on below button to access
 
 [![Node](codenvy-contribute.svg)](http://140.86.13.129/dashboard/#/ide/che/White)
 
