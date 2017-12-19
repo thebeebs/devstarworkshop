@@ -1,10 +1,8 @@
 ## Welcome to the Blue Squad. Let's get ready! ##
 
-Now it is time to access your development environment. Click on below 'Developer Workspace' button to access your environment!
+Now it is time to access your development environment. Right click on below 'Developer Workspace' button and open it in a new tab, to access your environment! 
 
-[![Node](codenvy-contribute.svg)](http://140.86.13.129/dashboard/#/ide/che/White){:target="_blank"}
-[go](http://stackoverflow.com){:target="_blank"}
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
+[![Node](codenvy-contribute.svg)](http://140.86.13.129/dashboard/#/ide/che/White)
 
 
 + Weapon selection strategy is completely up to your preference. Every squad members can have the same weapon, different weapons or chose to have no weapon at all.
