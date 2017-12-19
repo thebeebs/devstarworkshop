@@ -35,4 +35,4 @@ It is now time to select your weapon of choice.
 ![clone](../images/che_project.PNG)
 
 ### Next: First Mission ###				
-Now that you've cloned your code, you are ready to face your first mission! [click here](missions/deploy.md) to start your first mission!
+Now that you've cloned your code, you are ready to face your first mission! [click here](../missions/deploy.md) to start your first mission!
