@@ -2,11 +2,11 @@
 
 1. Now it is time to access your development environment. Right click on below 'Developer Workspace' button and open it in a new tab, to access your environment! 
 
-[![dev](codenvy-contribute.svg)](http://140.86.13.129/dashboard/#/ide/che/White)
+![dev](codenvy-contribute.svg)(http://140.86.13.129/dashboard/#/ide/che/White)
 
 You should now have access to something similair as below, make sure that your project in the Project Explorer matches the color of your squad.
 
-[![env](../images/che_welcome.PNG)]
+![env](../images/che_welcome.PNG)
 
 It is now time to select your weapon of choice.
 
@@ -28,11 +28,11 @@ It is now time to select your weapon of choice.
 
 3. Enter your developer enivronment, at the bottom of your screen, press the Terminal tab. Paste the Git Clone Command that you just copied and hit Enter. You should now be asked for your password, it should be handed out to you and is the same password as you use to access the Cloud services. **Paste the password using Ctrl + V as our environment does not support paste using mouse click.**
 
-[![clone](../images/che_clone.PNG)]
+![clone](../images/che_clone.PNG)
 
 4. You should now successfully have cloned the code to your enivronment and it should look something like below. Obviously, if your squad members have cloned their weapons before you, there should already be some projects listed.
 
-[![clone](../images/che_project.PNG)]
+![clone](../images/che_project.PNG)
 
 ### Next: Clone the code to your local machine ###
 
