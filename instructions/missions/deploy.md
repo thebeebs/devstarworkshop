@@ -6,7 +6,7 @@ Before you start your first mission, make sure you are ready as per below
 - [x] You have grouped together with your squad
 - [x] You have received your squad's Identitiy Domain, the username and the password
 - [x] You have selected which weapon you, as a member of your squad, will be using
-- [x] You are able to clone the source code of your weapon to your local machine. Either by ```git clone``` command or with an IDE with Git support.
+- [x] You are able to clone the source code of your weapon to your development environment.
 
 ### Mission Description ###
 
@@ -19,30 +19,32 @@ In order to take up the battle against the Alien War Ship, your squad would need
 
 ### Mission Instructions ###
 
-1. To deploy your fighter, you will use Continuous Integration and Deployment.
-+ In short, the **Continuous Integration and Deployment** strategy means that you push the code from your local machine to the Git repository. Oracle Developer Cloud will then automatically build, package and deploy your application to Application Container Cloud. 
+To deploy your fighter, you will use Continuous Integration and Deployment.
++ In short, the **Continuous Integration and Deployment** strategy means that you push the code from your development environment to the Git repository. Oracle Developer Cloud will then automatically build, package and deploy your application to Application Container Cloud. 
 
 The flow is highlighted below.
 
 [![Continuous](../cicd.png)](deploy.md) 
 
 You will not to have to worry about compilation, package and deployment.
-Since your code is already cloned, all you need to do is to make a change on it, commit the change to your local repository and push it to the remote original repository in Developer Cloud Service. This will immediately trigger Developer Cloud Service continous integration pipeline, which means that your code will compile, package a zip file and deploy it automatically to Oracle Application Container Cloud.
+Since your code is already cloned, all you need to do is to make a change on it, commit the change to the local repository and push it to the remote original repository in Developer Cloud Service. This will immediately trigger Developer Cloud Service continous integration pipeline, which means that your code will compile, package a zip file and deploy it automatically to Oracle Application Container Cloud.
 
-Let's first make a change to make sure that when you push the code, a difference in the repository is identified and the build job is properly triggered.
+1. Let's first make a change to make sure that when you push the code, a difference in the repository is identified and the build job is properly triggered.
 So, depending on the language you chose, have your code opened and make the suggested change:
 
- **Node.JS**: Open the file *xwingnodeclient/app.js* and on the first line insert a comment line with your squad name.
+ **Node.JS**: Open the file *xwingnodeclient/app.js* and on the first line insert a comment line with some text.
+                        
+                        eg: // My microservice!
 
-                        eg: // Yellow
+ **Java**: Open the file *src/main/java/com/example/rest/App.java* and on the first line insert a comment line.
 
- **Java**: Open the file *src/main/java/com/example/rest/App.java* and on the first line insert a comment line with your squad name.
+                        eg: // My microservice!
 
-                        eg: // Yellow
+ ![change](../images/che_change.PNG)
+ 
+ **PHP**: Open the file *index.php* and edit the line on row 2 (below "<php") and insert a comment line.
 
- **PHP**: Open the file *index.php* and edit the line on row 2 (below "<php") and insert a comment line with your squad name.
-
-                        eg: // Yellow
+                        eg: // My microservice!
 <!--
 + Ruby: Ruby and bundler gem installed
 
@@ -50,33 +52,22 @@ So, depending on the language you chose, have your code opened and make the sugg
 
                         eg: # Yellow
 -->
-Save the file.
 
-Depending on what type of git clone approach you've followed, you should now have 2 ways of commiting and pushing your code.
+2. Save the file using Ctrl + s.
 
-1. Using the Git command line interface
+3. Before we commit the file you need to change to the directory of your repoistory. In the Terminal window, use the cd command to change to your directory as below. Use your squad color and your selected weapon name (for example cd White/Java1).
+
+![change](../images/che_changedir.PNG)
+
+4. Now we will keep using the terminal window to add your saved files to the staging area, commit the changes with a message and finally push the committed changes to the remote Developer Cloud repository. Perform below commands as instructed by the text and picture.
 
        git add .
-
-   Please notice the point(.) at the end of the expression;
 
        git commit -m "Your commit message"
 
        git push
 
-   If successful, your code should be committed and pushed to the remote repository.
-
-
-2. Using Eclipse with Git
-
-  In Eclipse:
-  1. Go to Git Staging view.
-
-  2. You should now see the file you've changed in the Unstaged Changes area.
-
-  3. Drag & Drop the file from the previous point onto Staged Changes area.
-
-  4. Write a nice commit message and click Commit and Push.
+ ![change](../images/che_commit.PNG)
 
 After pushing the code to the remote repository in Developer Cloud Service, why don't have a look on the result:
 [click here](../devcs.md) to go to the instructions for Developer Cloud Service.
