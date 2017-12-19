@@ -3,6 +3,9 @@
 Now it is time to access your development environment. Click on below 'Developer Workspace' button to access your environment!
 
 [![Node](codenvy-contribute.svg)](http://140.86.13.129/dashboard/#/ide/che/White){:target="_blank"}
+[go](http://stackoverflow.com){:target="_blank"}
+<a href="http://example.com" target="_blank">http://example.com</a>
+
 
 + Weapon selection strategy is completely up to your preference. Every squad members can have the same weapon, different weapons or chose to have no weapon at all.
 + Each git repository includes the basic code that is needed in order to run and deploy your microservice to the battle action!
