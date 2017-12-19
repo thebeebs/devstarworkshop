@@ -12,14 +12,12 @@ The spy should now have exposed the secrets of the database where the Alien War 
 
 ### Mission Instructions ###
 1. You should now have received information from the spy about the credentials to the Alien War Ship's MySQL database where the coordinates for the Core Reactor is kept. Develop a MySQL query that queries the **SecretTable** to retrieve information about the Reactor Core coordinates! The Host IP address of the database is **REPLACE_WITH_IP**
-<!--
-+ Note to instructor: Edit this page with the correct IP address and port in the URL.
--->
+
 2. When you have the coordinates, hit the Reactor Core at the following URL:
 ```http://REPLACE_WITH_IP:3000/reactorCore/x-coordinate_goes_here/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g Java2Fighter)```.
 **The Reactor Core will get hit by HTTP GET Request bullets!**
 
-3. Deploy a new version of your microservice by pushing the edited code to the Git repository in the same way as for your first deployment. If you need a reminder on how to do that, check [these instructions](../deployment/cicd.md)
+3. Deploy a new version of your microservice by pushing the edited code to the Git repository in the same way as for your first deployment. If you need a reminder on how to do that, check [these instructions](../deploy.md)
 
 4. When your updated microservice is live, it will hopefully hit the Alien War Ship's Reactor Core!
 
