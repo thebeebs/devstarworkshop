@@ -14,13 +14,9 @@ The Alien War Ship has sent out 10 Mini Fighters to attack your fighters! You ne
 
 1. You should now have received information from the spy that will give you the y-coordinates of the Mini Fighters. The example below would shoot down ***one*** of the Mini Fighters. ***The x-coordinate is locked at coordinate 45***.
 
-<!--
-+ Note to instructor: Edit this page with the correct IP address and port in the URL.
--->
-
 ```http://REPLACE_WITH_IP:3000/fighters/45/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g Java2Fighter)```. **The Mini Fighters will get hit by HTTP GET Request bullets!**
 
-3. Deploy a new version of your microservice by pushing the edited code to the Git repository in the same way as for your first deployment. If you need a reminder on how to do that, check [these instructions](../deployment/cicd.md)
+3. Deploy a new version of your microservice by pushing the edited code to the Git repository in the same way as for your first deployment. If you need a reminder on how to do that, check [these instructions](../deploy.md)
 
 3. When your updated microservice is live, it will hopefully hit the Mini Fighters sent out by the Alien War Ship!
 
