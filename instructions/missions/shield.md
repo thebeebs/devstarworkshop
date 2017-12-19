@@ -28,7 +28,9 @@ To start firing at the shield, we first need to have the Alien War Ship exposing
 
 The base URL of the shield is ```http://REPLACE_WITH_IP:3000/shield/x-coordinate_goes_here/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g Java2Fighter)```. **The shield will get hit by HTTP GET Request bullets!**
 
-3. Deploy a new version of your microservice by pushing the edited code to the Git repository in the same way as for your first deployment. If you need a reminder on how to do that, check [these instructions](../deployment/cicd.md)
+You need to look through your App.java, app.js or index.php file depending on your language and find out what changes you will need to make to invoke the shield's URL!
+
+3. Deploy a new version of your microservice by pushing the edited code to the Git repository in the same way as for your first deployment. If you need a reminder on how to do that, check [these instructions](../deploy.md)
 
 4. When your updated microservice is live, it will hopefully hit the Alien War Ship's shield!
 
