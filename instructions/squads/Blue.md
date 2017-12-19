@@ -2,7 +2,7 @@
 
 Now it is time to access your development environment. 
 
-![Node](devenv.svg)](http://140.86.13.129/dashboard/#/ide/che/White) 
+[![Node](codenvy-contribute.svg)](http://140.86.13.129/dashboard/#/ide/che/White)
 
 + Weapon selection strategy is completely up to your preference. Every squad members can have the same weapon, different weapons or chose to have no weapon at all.
 + Each git repository includes the basic code that is needed in order to run and deploy your microservice to the battle action!
