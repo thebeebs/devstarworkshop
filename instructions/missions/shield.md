@@ -30,7 +30,7 @@ The base URL of the shield is ```http://REPLACE_WITH_IP:3000/shield/x-coordinate
 
 You need to look through your App.java, app.js or index.php file depending on your language and find out what changes you will need to make to invoke the shield's URL!
 
-3. Deploy a new version of your microservice by pushing the edited code to the Git repository in the same way as for your first deployment. If you need a reminder on how to do that, check [these instructions](../deploy.md)
+3. Deploy a new version of your microservice by pushing the edited code to the Git repository in the same way as for your first deployment. If you need a reminder on how to do that, check the instructions for the [first mission](deploy.md)
 
 4. When your updated microservice is live, it will hopefully hit the Alien War Ship's shield!
 
