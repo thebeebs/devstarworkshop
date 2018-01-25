@@ -17,6 +17,8 @@ The spy should now have exposed the secrets of the database where the Alien War 
 ```http://REPLACE_WITH_IP:3000/reactorCore/x-coordinate_goes_here/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g Java2Fighter)```.
 **The Reactor Core will get hit by HTTP GET Request bullets!**
 
+**Hint: Notice the changed endpoint 'reactorCore'**
+
 3. Deploy a new version of your microservice by pushing the edited code to the Git repository in the same way as for your first deployment. If you need a reminder on how to do that, check the instructions for the [first mission](deploy.md)
 
 4. When your updated microservice is live, it will hopefully hit the Alien War Ship's Reactor Core!
