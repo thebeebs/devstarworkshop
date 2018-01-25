@@ -16,6 +16,8 @@ The Alien War Ship has sent out 10 Mini Fighters to attack your fighters! You ne
 
 ```http://REPLACE_WITH_IP:3000/fighters/45/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g Java2Fighter)```. **The Mini Fighters will get hit by HTTP GET Request bullets!**
 
+**Hint: Notice the changed endpoint 'fighters'**
+
 3. Deploy a new version of your microservice by pushing the edited code to the Git repository in the same way as for your first deployment. If you need a reminder on how to do that, check the instructions for the [first mission](deploy.md)
 
 3. When your updated microservice is live, it will hopefully hit the Mini Fighters sent out by the Alien War Ship!
