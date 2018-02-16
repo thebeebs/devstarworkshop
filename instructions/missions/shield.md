@@ -26,7 +26,7 @@ To start firing at the shield, we first need to have the Alien War Ship exposing
 - For Node.js, the file is located at xwingnodeclient/app.js (in the folder where you locally cloned the code)
 - For PHP, the file is located at index.php (in the folder where you locally cloned the code)
 
-The base URL of the shield is ```http://129.157.179.180:3000/shield/x-coordinate_goes_here/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g Java2Fighter)```. **The shield will get hit by HTTP GET Request bullets!**
+The base URL of the shield is ```http://129.157.179.180:3000/shield/x-coordinate_goes_here/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g YellowJava2Fighter)```. **The shield will get hit by HTTP GET Request bullets!**
 
 **Hint: Make sure that your code/function is actually being called **
 
