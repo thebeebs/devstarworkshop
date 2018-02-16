@@ -18,11 +18,11 @@ It is now time to select your weapon of choice.
 
 | Weapon        | Password     | Git Clone Command  |
 | ------------- |-------------| -----|
-| Node.js 1      | Handed out | ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer93971-gse00002102/s/developer93971-gse00002102_devstar_7535/scm/Node1.git White/Node1 ``` |
-| Java SE 1     | Handed out      |   ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer93971-gse00002102/s/developer93971-gse00002102_devstar_7535/scm/Java1.git White/Java1 ``` |
-| Node.js 2    | Handed out | ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer93971-gse00002102/s/developer93971-gse00002102_devstar_7535/scm/Node2.git White/Node2 ``` |
-| Java SE 2    | Handed out      |   ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer93971-gse00002102/s/developer93971-gse00002102_devstar_7535/scm/Java2.git White/Java2 ``` |
-| PHP | Handed out      |  ``` git clone https://lisa.jones@developer.em2.oraclecloud.com/developer93971-gse00002102/s/developer93971-gse00002102_devstar_7535/scm/PHP.git White/PHP ``` |
+| Node.js 1      | Handed out | ``` git clone https://user06@developer.em2.oraclecloud.com/developer99287-gse00002321/s/developer99287-gse00002321_white_7602/scm/Node1.git White/Node1 ``` |
+| Java SE 1     | Handed out      |   ``` git clone https://user06@developer.em2.oraclecloud.com/developer99287-gse00002321/s/developer99287-gse00002321_white_7602/scm/Java1.git White/Java1 ``` |
+| Node.js 2    | Handed out | ``` git clone https://user06@developer.em2.oraclecloud.com/developer99287-gse00002321/s/developer99287-gse00002321_white_7602/scm/Node2.git White/Node2 ``` |
+| Java SE 2    | Handed out      |   ``` git clone https://user06@developer.em2.oraclecloud.com/developer99287-gse00002321/s/developer99287-gse00002321_white_7602/scm/Java2.git White/Java2 ``` |
+| PHP | Handed out      |  ``` git clone https://user06@developer.em2.oraclecloud.com/developer99287-gse00002321/s/developer99287-gse00002321_white_7602/scm/PHP.git White/PHP ``` |
 
 2. Copy the preferred Weapon's Git Clone Command from above. Discuss with your squad members to make sure you are not using the same one! 
 
