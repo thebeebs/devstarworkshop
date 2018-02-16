@@ -14,7 +14,7 @@ The spy should now have exposed the secrets of the database where the Alien War 
 1. You should now have received information from the spy about the credentials to the Alien War Ship's MySQL database where the coordinates for the Core Reactor is kept. Develop a MySQL query that queries the **SecretTable** to retrieve information about the Reactor Core coordinates! The Host IP address of the database is **129.157.179.180**
 
 2. When you have the coordinates, hit the Reactor Core at the following URL:
-```http://129.157.179.180:3000/reactorCore/x-coordinate_goes_here/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g Java2Fighter)```.
+```http://129.157.179.180:3000/reactorCore/x-coordinate_goes_here/y-coordinate_goes_here/Your_squad_name_goes_here(e.g yellow)/Your_microservice_name_goes_here(e.g YellowJava2Fighter)```.
 **The Reactor Core will get hit by HTTP GET Request bullets!**
 
 **Hint: Notice the changed endpoint 'reactorCore'**
