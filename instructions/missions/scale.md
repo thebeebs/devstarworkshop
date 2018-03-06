@@ -12,7 +12,7 @@ Your squad has now deployed one or several individual microservices (fighters). 
 
 ### Mission Instructions ###
 
-1. Sign in to Application Container Cloud using the URL and credentials from the Excel sheet.
+1. Sign in to Application Container Cloud using the URL and credentials from [https://thebeebs.co.uk/devstar](https://thebeebs.co.uk/devstar).
 
 2. Click your deployed application:
 
